@@ -189,9 +189,8 @@
     {
       "id": "d_nikke_laplace_05_7",
       "group_id": "d_nikke_laplace_05",
-      "speech_window": "Speech",
+      "speech_window": "Narration",
       "highlight": "laplace",
-      "speaker": "laplace",
       "scenario_localkey": "d_nikke_laplace_05_7",
       "play_lipSync": false,
       "characters": [

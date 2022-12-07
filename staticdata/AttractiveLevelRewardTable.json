@@ -2694,6 +2694,202 @@
       "attractive_scenario_group_id": "d_nikke_laplace_05",
       "reward_id": 50,
       "costume": 0
+    },
+    {
+      "id": 276,
+      "name_code": 5087,
+      "attractive_level": 1,
+      "scenario_title_loacle": "d_nikke_rupee_wintershopper_01_title",
+      "attractive_scenario_group_id": "d_nikke_rupee_wintershopper_01",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 277,
+      "name_code": 5087,
+      "attractive_level": 3,
+      "condition_scenario_group_id": "d_nikke_rupee_wintershopper_01",
+      "scenario_title_loacle": "d_nikke_rupee_wintershopper_02_title",
+      "attractive_scenario_group_id": "d_nikke_rupee_wintershopper_02",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 278,
+      "name_code": 5087,
+      "attractive_level": 5,
+      "condition_scenario_group_id": "d_nikke_rupee_wintershopper_02",
+      "scenario_title_loacle": "d_nikke_rupee_wintershopper_03_title",
+      "attractive_scenario_group_id": "d_nikke_rupee_wintershopper_03",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 279,
+      "name_code": 5087,
+      "attractive_level": 7,
+      "condition_scenario_group_id": "d_nikke_rupee_wintershopper_03",
+      "scenario_title_loacle": "d_nikke_rupee_wintershopper_04_title",
+      "attractive_scenario_group_id": "d_nikke_rupee_wintershopper_04",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 280,
+      "name_code": 5087,
+      "attractive_level": 10,
+      "condition_scenario_group_id": "d_nikke_rupee_wintershopper_04",
+      "scenario_title_loacle": "d_nikke_rupee_wintershopper_05_title",
+      "attractive_scenario_group_id": "d_nikke_rupee_wintershopper_05",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 281,
+      "name_code": 5085,
+      "attractive_level": 1,
+      "scenario_title_loacle": "d_nikke_anne_miraclefairy_01_title",
+      "attractive_scenario_group_id": "d_nikke_anne_miraclefairy_01",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 282,
+      "name_code": 5085,
+      "attractive_level": 3,
+      "condition_scenario_group_id": "d_nikke_anne_miraclefairy_01",
+      "scenario_title_loacle": "d_nikke_anne_miraclefairy_02_title",
+      "attractive_scenario_group_id": "d_nikke_anne_miraclefairy_02",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 283,
+      "name_code": 5085,
+      "attractive_level": 5,
+      "condition_scenario_group_id": "d_nikke_anne_miraclefairy_02",
+      "scenario_title_loacle": "d_nikke_anne_miraclefairy_03_title",
+      "attractive_scenario_group_id": "d_nikke_anne_miraclefairy_03",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 284,
+      "name_code": 5085,
+      "attractive_level": 7,
+      "condition_scenario_group_id": "d_nikke_anne_miraclefairy_03",
+      "scenario_title_loacle": "d_nikke_anne_miraclefairy_04_title",
+      "attractive_scenario_group_id": "d_nikke_anne_miraclefairy_04",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 285,
+      "name_code": 5085,
+      "attractive_level": 10,
+      "condition_scenario_group_id": "d_nikke_anne_miraclefairy_04",
+      "scenario_title_loacle": "d_nikke_anne_miraclefairy_05_title",
+      "attractive_scenario_group_id": "d_nikke_anne_miraclefairy_05",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 286,
+      "name_code": 3011,
+      "attractive_level": 1,
+      "scenario_title_loacle": "d_nikke_neve_01_title",
+      "attractive_scenario_group_id": "d_nikke_neve_01",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 287,
+      "name_code": 3011,
+      "attractive_level": 3,
+      "condition_scenario_group_id": "d_nikke_neve_01",
+      "scenario_title_loacle": "d_nikke_neve_02_title",
+      "attractive_scenario_group_id": "d_nikke_neve_02",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 288,
+      "name_code": 3011,
+      "attractive_level": 5,
+      "condition_scenario_group_id": "d_nikke_neve_02",
+      "scenario_title_loacle": "d_nikke_neve_03_title",
+      "attractive_scenario_group_id": "d_nikke_neve_03",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 289,
+      "name_code": 3011,
+      "attractive_level": 7,
+      "condition_scenario_group_id": "d_nikke_neve_03",
+      "scenario_title_loacle": "d_nikke_neve_04_title",
+      "attractive_scenario_group_id": "d_nikke_neve_04",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 290,
+      "name_code": 3011,
+      "attractive_level": 10,
+      "condition_scenario_group_id": "d_nikke_neve_04",
+      "scenario_title_loacle": "d_nikke_neve_05_title",
+      "attractive_scenario_group_id": "d_nikke_neve_05",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 291,
+      "name_code": 5044,
+      "attractive_level": 1,
+      "scenario_title_loacle": "d_nikke_marian_p_01_title",
+      "attractive_scenario_group_id": "d_nikke_marian_p_01",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 292,
+      "name_code": 5044,
+      "attractive_level": 3,
+      "condition_scenario_group_id": "d_nikke_marian_p_01",
+      "scenario_title_loacle": "d_nikke_marian_p_02_title",
+      "attractive_scenario_group_id": "d_nikke_marian_p_02",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 293,
+      "name_code": 5044,
+      "attractive_level": 5,
+      "condition_scenario_group_id": "d_nikke_marian_p_02",
+      "scenario_title_loacle": "d_nikke_marian_p_03_title",
+      "attractive_scenario_group_id": "d_nikke_marian_p_03",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 294,
+      "name_code": 5044,
+      "attractive_level": 7,
+      "condition_scenario_group_id": "d_nikke_marian_p_03",
+      "scenario_title_loacle": "d_nikke_marian_p_04_title",
+      "attractive_scenario_group_id": "d_nikke_marian_p_04",
+      "reward_id": 50,
+      "costume": 0
+    },
+    {
+      "id": 295,
+      "name_code": 5044,
+      "attractive_level": 10,
+      "condition_scenario_group_id": "d_nikke_marian_p_04",
+      "scenario_title_loacle": "d_nikke_marian_p_05_title",
+      "attractive_scenario_group_id": "d_nikke_marian_p_05",
+      "reward_id": 50,
+      "costume": 0
     }
   ]
 }

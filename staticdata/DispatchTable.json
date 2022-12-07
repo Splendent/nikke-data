@@ -4186,6 +4186,552 @@
       ],
       "reward_id": 3150004,
       "time_min": 150
+    },
+    {
+      "id": 162,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ALL",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 163,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "TETRA",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 164,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 165,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "TETRA",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 166,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "TETRA",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 167,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 168,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "TETRA",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 169,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ALL",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 170,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3110002,
+      "time_min": 60
+    },
+    {
+      "id": 171,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3140002,
+      "time_min": 60
+    },
+    {
+      "id": 172,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "TETRA",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3140002,
+      "time_min": 60
+    },
+    {
+      "id": 173,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "TETRA",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3140002,
+      "time_min": 60
+    },
+    {
+      "id": 174,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 175,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 176,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ALL",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 177,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 178,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "MISSILIS",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 179,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "TETRA",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 180,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "TETRA",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 181,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
+    },
+    {
+      "id": 182,
+      "dispatch_group": 25000,
+      "dispatch_grade_id": 2,
+      "dispatch_description": "dispatch_description_2001",
+      "slot_max": 2,
+      "dispatch_slot_array": [
+        {
+          "slot_corporation": "ELYSION",
+          "rare": "SR",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "ALL",
+          "rare": "R",
+          "grade_id": 1
+        },
+        {
+          "slot_corporation": "None",
+          "rare": "None",
+          "grade_id": 0
+        }
+      ],
+      "reward_id": 3170002,
+      "time_min": 60
     }
   ]
 }

@@ -533,7 +533,7 @@
       "id": 4003,
       "group_id": 4000,
       "name_localkey": "ACADEMY_LESSON_DISPATCH",
-      "function_localkey": "ACADEMY_LESSON_DISPATCH_2",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_1",
       "lesson_type": "Dispatch",
       "lesson_reward": [
         {
@@ -1105,7 +1105,7 @@
       "id": 8004,
       "group_id": 8000,
       "name_localkey": "ACADEMY_LESSON_DISPATCH",
-      "function_localkey": "ACADEMY_LESSON_DISPATCH_2",
+      "function_localkey": "ACADEMY_LESSON_DISPATCH_1",
       "lesson_type": "Dispatch",
       "lesson_reward": [
         {

@@ -324,6 +324,42 @@
       "bundle_id": 90002,
       "logo_resource_id": "ele_logo_normal",
       "bg_resource_id": "EVENT_BANNER_HIGHTECHTOY"
+    },
+    {
+      "id": 9000301,
+      "shop_type": "EventShop",
+      "shop_category": "ShopStoryEvent",
+      "shop_npc_resource_id": 0,
+      "price_color_normal": "FFFFFF",
+      "currency_info_display_control": true,
+      "open_contents": 0,
+      "name_localkey": "SHOP_EVENT_STORY_MIRACLE_SNOW_SHOP_TAB",
+      "description_localkey": "SHOP_NAME_EVENT_STORY",
+      "renew_type": "NoRenew",
+      "renew_value": 0,
+      "renew_group_id": 0,
+      "stage_id": 6001001,
+      "bundle_id": 90003,
+      "logo_resource_id": "ele_logo_normal",
+      "bg_resource_id": "EVENT_BANNER_HIGHTECHTOY"
+    },
+    {
+      "id": 9000501,
+      "shop_type": "EventShop",
+      "shop_category": "ShopStoryEvent",
+      "shop_npc_resource_id": 0,
+      "price_color_normal": "FFFFFF",
+      "currency_info_display_control": true,
+      "open_contents": 0,
+      "name_localkey": "SHOP_EVENT_STORY_BRAND_NEW_YEAR_SHOP_TAB",
+      "description_localkey": "SHOP_NAME_EVENT_STORY",
+      "renew_type": "NoRenew",
+      "renew_value": 0,
+      "renew_group_id": 0,
+      "stage_id": 6001001,
+      "bundle_id": 90005,
+      "logo_resource_id": "ele_logo_normal",
+      "bg_resource_id": "EVENT_BANNER_HIGHTECHTOY"
     }
   ]
 }

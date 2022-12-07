@@ -30,14 +30,6 @@
       "value": "0"
     },
     {
-      "id": "DefaultReturnDay",
-      "value": "30"
-    },
-    {
-      "id": "EnableReturnEvent",
-      "value": "True"
-    },
-    {
       "id": "DailyResetHour",
       "value": "20"
     },
@@ -223,11 +215,11 @@
     },
     {
       "id": "MaxFriendshipReceiveCount",
-      "value": "30"
+      "value": "15"
     },
     {
       "id": "FriendshipValue",
-      "value": "1"
+      "value": "2"
     },
     {
       "id": "MaxBlacklistCount",
@@ -328,6 +320,14 @@
     {
       "id": "ArenaLoseRating",
       "value": "0"
+    },
+    {
+      "id": "ArenaStageStatIncreaseGroupId",
+      "value": "50000"
+    },
+    {
+      "id": "SpecialArenaStageStatIncreaseGroupId",
+      "value": "50000"
     },
     {
       "id": "OutpostMonsterSpawnTime",
@@ -519,7 +519,7 @@
     },
     {
       "id": "ArenaSeasonStartingDate",
-      "value": "2022-06-26"
+      "value": "2022-06-29"
     },
     {
       "id": "ArenaSeasonPeriod",
@@ -651,6 +651,10 @@
     },
     {
       "id": "MaxSimulationRoomTeamCount",
+      "value": "5"
+    },
+    {
+      "id": "MaxStoryEventTeamCount",
       "value": "5"
     },
     {
@@ -900,6 +904,10 @@
     {
       "id": "ReviewConditionTutorialGroupID",
       "value": "2800"
+    },
+    {
+      "id": "EventCurrencyMaterialMiraclesnow",
+      "value": "7060003"
     }
   ]
 }

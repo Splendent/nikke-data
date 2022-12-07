@@ -26,6 +26,12 @@
       "resource_id": 902
     },
     {
+      "id": 5,
+      "name_localtable": "Locale_Character",
+      "name_localkey": "903_name",
+      "resource_id": 903
+    },
+    {
       "id": 101,
       "name_localtable": "Locale_Character",
       "name_localkey": "907_name",

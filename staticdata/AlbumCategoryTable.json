@@ -36,6 +36,33 @@
       "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
       "name_tag_localkey": "OUTPOST_EN",
       "is_show_total_count": false
+    },
+    {
+      "id": 10021,
+      "group": 1002,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10031,
+      "group": 1003,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
+    },
+    {
+      "id": 10041,
+      "group": 1004,
+      "is_outpost": false,
+      "category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "category_description_localkey": "ALBUM_CATEGORY_DESC_STORY_EVENT",
+      "name_tag_localkey": "OUTPOST_EN",
+      "is_show_total_count": false
     }
   ]
 }

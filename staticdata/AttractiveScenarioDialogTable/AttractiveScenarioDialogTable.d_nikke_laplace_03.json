@@ -1059,7 +1059,7 @@
         {},
         {
           "set_char_position": "13",
-          "set_char_anim": "void"
+          "set_char_anim": "no"
         },
         {
           "set_char_position": "15",
@@ -1097,7 +1097,7 @@
         {},
         {
           "set_char_position": "13",
-          "set_char_anim": "void"
+          "set_char_anim": "no"
         },
         {
           "set_char_position": "15",
@@ -1135,7 +1135,7 @@
         {},
         {
           "set_char_position": "13",
-          "set_char_anim": "void"
+          "set_char_anim": "no"
         },
         {
           "set_char_position": "15",

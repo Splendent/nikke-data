@@ -266,6 +266,20 @@
       "gacha_id": 209101,
       "is_char_premium": true,
       "is_wish_list_default": false
+    },
+    {
+      "id": 39,
+      "gacha_type": "Character",
+      "gacha_id": 235201,
+      "is_char_premium": true,
+      "is_wish_list_default": false
+    },
+    {
+      "id": 40,
+      "gacha_type": "Character",
+      "gacha_id": 110001,
+      "is_char_premium": true,
+      "is_wish_list_default": false
     }
   ]
 }

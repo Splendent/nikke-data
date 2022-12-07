@@ -448,9 +448,9 @@
       "product_type": "Currency",
       "product_id": 99,
       "product_value": 720
-    },    
+    },
     {
-      "id": 20050603,
+      "id": 20050602,
       "package_group_id": 200506,
       "product_type": "Item",
       "product_id": 7010002,
@@ -462,9 +462,9 @@
       "product_type": "Currency",
       "product_id": 99,
       "product_value": 1500
-    },    
+    },
     {
-      "id": 20050703,
+      "id": 20050702,
       "package_group_id": 200507,
       "product_type": "Item",
       "product_id": 7010002,
@@ -476,9 +476,9 @@
       "product_type": "Currency",
       "product_id": 99,
       "product_value": 4200
-    },    
+    },
     {
-      "id": 20050803,
+      "id": 20050802,
       "package_group_id": 200508,
       "product_type": "Item",
       "product_id": 7010002,
@@ -539,6 +539,370 @@
       "product_type": "Item",
       "product_id": 5330201,
       "product_value": 50
+    },
+    {
+      "id": 20060401,
+      "package_group_id": 200604,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 8000
+    },
+    {
+      "id": 20060402,
+      "package_group_id": 200604,
+      "product_type": "Currency",
+      "product_id": 5100,
+      "product_value": 30
+    },
+    {
+      "id": 20060403,
+      "package_group_id": 200604,
+      "product_type": "Item",
+      "product_id": 9202191,
+      "product_value": 1
+    },
+    {
+      "id": 20060404,
+      "package_group_id": 200604,
+      "product_type": "Item",
+      "product_id": 5310301,
+      "product_value": 50
+    },
+    {
+      "id": 20070101,
+      "package_group_id": 200701,
+      "product_type": "Item",
+      "product_id": 7091001,
+      "product_value": 450
+    },
+    {
+      "id": 20070102,
+      "package_group_id": 200701,
+      "product_type": "Item",
+      "product_id": 7091002,
+      "product_value": 315
+    },
+    {
+      "id": 20070103,
+      "package_group_id": 200701,
+      "product_type": "Item",
+      "product_id": 7091003,
+      "product_value": 70
+    },
+    {
+      "id": 20070104,
+      "package_group_id": 200701,
+      "product_type": "Item",
+      "product_id": 7093004,
+      "product_value": 90
+    },
+    {
+      "id": 20070201,
+      "package_group_id": 200702,
+      "product_type": "Item",
+      "product_id": 7092001,
+      "product_value": 450
+    },
+    {
+      "id": 20070202,
+      "package_group_id": 200702,
+      "product_type": "Item",
+      "product_id": 7092002,
+      "product_value": 315
+    },
+    {
+      "id": 20070203,
+      "package_group_id": 200702,
+      "product_type": "Item",
+      "product_id": 7092003,
+      "product_value": 70
+    },
+    {
+      "id": 20070204,
+      "package_group_id": 200702,
+      "product_type": "Item",
+      "product_id": 7093004,
+      "product_value": 190
+    },
+    {
+      "id": 20070301,
+      "package_group_id": 200703,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 720
+    },
+    {
+      "id": 20070302,
+      "package_group_id": 200703,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 80
+    },
+    {
+      "id": 20070401,
+      "package_group_id": 200704,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 1500
+    },
+    {
+      "id": 20070402,
+      "package_group_id": 200704,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 160
+    },
+    {
+      "id": 20070501,
+      "package_group_id": 200705,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 4200
+    },
+    {
+      "id": 20070502,
+      "package_group_id": 200705,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 400
+    },
+    {
+      "id": 20080101,
+      "package_group_id": 200706,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 320
+    },
+    {
+      "id": 20080102,
+      "package_group_id": 200706,
+      "product_type": "Item",
+      "product_id": 9202361,
+      "product_value": 1
+    },
+    {
+      "id": 20080103,
+      "package_group_id": 200706,
+      "product_type": "Item",
+      "product_id": 9301002,
+      "product_value": 5
+    },
+    {
+      "id": 20080104,
+      "package_group_id": 200706,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 5
+    },
+    {
+      "id": 20080201,
+      "package_group_id": 200707,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 1500
+    },
+    {
+      "id": 20080202,
+      "package_group_id": 200707,
+      "product_type": "Item",
+      "product_id": 9202371,
+      "product_value": 1
+    },
+    {
+      "id": 20080203,
+      "package_group_id": 200707,
+      "product_type": "Item",
+      "product_id": 9301002,
+      "product_value": 10
+    },
+    {
+      "id": 20080204,
+      "package_group_id": 200707,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 10
+    },
+    {
+      "id": 20080301,
+      "package_group_id": 200708,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 2300
+    },
+    {
+      "id": 20080302,
+      "package_group_id": 200708,
+      "product_type": "Item",
+      "product_id": 9202381,
+      "product_value": 1
+    },
+    {
+      "id": 20080303,
+      "package_group_id": 200708,
+      "product_type": "Item",
+      "product_id": 9301002,
+      "product_value": 15
+    },
+    {
+      "id": 20080304,
+      "package_group_id": 200708,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 15
+    },
+    {
+      "id": 20070901,
+      "package_group_id": 200709,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 1500
+    },
+    {
+      "id": 20070902,
+      "package_group_id": 200709,
+      "product_type": "Currency",
+      "product_id": 5200,
+      "product_value": 15
+    },
+    {
+      "id": 20071001,
+      "package_group_id": 200710,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 4200
+    },
+    {
+      "id": 20071002,
+      "package_group_id": 200710,
+      "product_type": "Currency",
+      "product_id": 5200,
+      "product_value": 20
+    },
+    {
+      "id": 20071003,
+      "package_group_id": 200710,
+      "product_type": "Item",
+      "product_id": 5310301,
+      "product_value": 50
+    },
+    {
+      "id": 20071101,
+      "package_group_id": 200711,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 8000
+    },
+    {
+      "id": 20071102,
+      "package_group_id": 200711,
+      "product_type": "Currency",
+      "product_id": 5200,
+      "product_value": 30
+    },
+    {
+      "id": 20071103,
+      "package_group_id": 200711,
+      "product_type": "Item",
+      "product_id": 5310301,
+      "product_value": 50
+    },
+    {
+      "id": 20090101,
+      "package_group_id": 200901,
+      "product_type": "Item",
+      "product_id": 7091001,
+      "product_value": 450
+    },
+    {
+      "id": 20090102,
+      "package_group_id": 200901,
+      "product_type": "Item",
+      "product_id": 7091002,
+      "product_value": 315
+    },
+    {
+      "id": 20090103,
+      "package_group_id": 200901,
+      "product_type": "Item",
+      "product_id": 7091003,
+      "product_value": 70
+    },
+    {
+      "id": 20090104,
+      "package_group_id": 200901,
+      "product_type": "Item",
+      "product_id": 7093003,
+      "product_value": 90
+    },
+    {
+      "id": 20090201,
+      "package_group_id": 200902,
+      "product_type": "Item",
+      "product_id": 7092001,
+      "product_value": 450
+    },
+    {
+      "id": 20090202,
+      "package_group_id": 200902,
+      "product_type": "Item",
+      "product_id": 7092002,
+      "product_value": 315
+    },
+    {
+      "id": 20090203,
+      "package_group_id": 200902,
+      "product_type": "Item",
+      "product_id": 7092003,
+      "product_value": 70
+    },
+    {
+      "id": 20090204,
+      "package_group_id": 200902,
+      "product_type": "Item",
+      "product_id": 7093003,
+      "product_value": 190
+    },
+    {
+      "id": 20090301,
+      "package_group_id": 200903,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 720
+    },
+    {
+      "id": 20090302,
+      "package_group_id": 200903,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 80
+    },
+    {
+      "id": 20090401,
+      "package_group_id": 200904,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 1500
+    },
+    {
+      "id": 20090402,
+      "package_group_id": 200904,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 160
+    },
+    {
+      "id": 20090501,
+      "package_group_id": 200905,
+      "product_type": "Currency",
+      "product_id": 99,
+      "product_value": 4200
+    },
+    {
+      "id": 20090502,
+      "package_group_id": 200905,
+      "product_type": "Item",
+      "product_id": 7010002,
+      "product_value": 400
     },
     {
       "id": 30010101,
@@ -2471,6 +2835,41 @@
       "product_type": "Currency",
       "product_id": 5100,
       "product_value": 50
+    },
+    {
+      "id": 12000101,
+      "package_group_id": 120001,
+      "product_type": "CharacterCostume",
+      "product_id": 30002,
+      "product_value": 1
+    },
+    {
+      "id": 12000201,
+      "package_group_id": 120002,
+      "product_type": "CharacterCostume",
+      "product_id": 30003,
+      "product_value": 1
+    },
+    {
+      "id": 12000301,
+      "package_group_id": 120003,
+      "product_type": "CharacterCostume",
+      "product_id": 30007,
+      "product_value": 1
+    },
+    {
+      "id": 12000401,
+      "package_group_id": 120004,
+      "product_type": "CharacterCostume",
+      "product_id": 40002,
+      "product_value": 1
+    },
+    {
+      "id": 12000501,
+      "package_group_id": 120005,
+      "product_type": "CharacterCostume",
+      "product_id": 50001,
+      "product_value": 1
     }
   ]
 }

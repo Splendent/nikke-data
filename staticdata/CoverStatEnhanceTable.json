@@ -604,7 +604,7 @@
     {
       "id": 101,
       "lv": 101,
-      "level_hp": 203000,
+      "level_hp": 127400,
       "level_defence": 1280
     },
     {
@@ -724,19 +724,19 @@
     {
       "id": 121,
       "lv": 121,
-      "level_hp": 245600,
+      "level_hp": 176000,
       "level_defence": 1860
     },
     {
       "id": 122,
       "lv": 122,
-      "level_hp": 251700,
+      "level_hp": 182900,
       "level_defence": 1880
     },
     {
       "id": 123,
       "lv": 123,
-      "level_hp": 255200,
+      "level_hp": 187000,
       "level_defence": 1910
     },
     {

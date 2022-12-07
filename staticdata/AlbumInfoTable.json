@@ -405,6 +405,33 @@
       "sub_category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
       "sub_category_thumbnail": "img_album_structure_toyshop",
       "is_hidden": false
+    },
+    {
+      "id": 1002101,
+      "category_group_id": 10021,
+      "sub_category_id": 90003,
+      "sub_category_name_localtable": "Locale_System",
+      "sub_category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "sub_category_thumbnail": "img_album_structure_toyshop",
+      "is_hidden": false
+    },
+    {
+      "id": 1003101,
+      "category_group_id": 10031,
+      "sub_category_id": 90004,
+      "sub_category_name_localtable": "Locale_System",
+      "sub_category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "sub_category_thumbnail": "img_album_structure_toyshop",
+      "is_hidden": false
+    },
+    {
+      "id": 1004101,
+      "category_group_id": 10041,
+      "sub_category_id": 90005,
+      "sub_category_name_localtable": "Locale_System",
+      "sub_category_name_localkey": "ALBUM_CATEGORY_NAME_STORY_EVENT",
+      "sub_category_thumbnail": "img_album_structure_toyshop",
+      "is_hidden": false
     }
   ]
 }

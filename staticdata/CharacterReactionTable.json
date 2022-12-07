@@ -6515,6 +6515,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_speech_01",
+      "rection_voice": "c121_Lobby_Touch_1",
       "probability": 0.3
     },
     {
@@ -6527,6 +6528,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_speech_02",
+      "rection_voice": "c121_Lobby_Touch_2",
       "probability": 0.3
     },
     {
@@ -6539,6 +6541,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_speech_03",
+      "rection_voice": "c121_Lobby_Touch_3",
       "probability": 0.4
     },
     {
@@ -6551,6 +6554,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_speech_04",
+      "rection_voice": "c121_Lobby_Touch_Love_1",
       "probability": 0.3
     },
     {
@@ -6563,6 +6567,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_speech_05",
+      "rection_voice": "c121_Lobby_Touch_Love_2",
       "probability": 0.3
     },
     {
@@ -6575,6 +6580,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_speech_06",
+      "rection_voice": "c121_Lobby_Touch_Love_3",
       "probability": 0.4
     },
     {
@@ -6587,6 +6593,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_stay_01",
+      "rection_voice": "c121_Lobby_Stay_1",
       "probability": 1.0
     },
     {
@@ -6599,6 +6606,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "121_stay_02",
+      "rection_voice": "c121_Lobby_Stay_Love_1",
       "probability": 1.0
     },
     {
@@ -6611,6 +6619,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_speech_01",
+      "rection_voice": "c203_Lobby_Touch_1",
       "probability": 0.3
     },
     {
@@ -6623,6 +6632,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_speech_02",
+      "rection_voice": "c203_Lobby_Touch_2",
       "probability": 0.3
     },
     {
@@ -6635,6 +6645,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_speech_03",
+      "rection_voice": "c203_Lobby_Touch_3",
       "probability": 0.4
     },
     {
@@ -6647,6 +6658,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_speech_04",
+      "rection_voice": "c203_Lobby_Touch_Love_1",
       "probability": 0.3
     },
     {
@@ -6659,6 +6671,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_speech_05",
+      "rection_voice": "c203_Lobby_Touch_Love_2",
       "probability": 0.3
     },
     {
@@ -6671,6 +6684,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_speech_06",
+      "rection_voice": "c203_Lobby_Touch_Love_3",
       "probability": 0.4
     },
     {
@@ -6683,6 +6697,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_stay_01",
+      "rection_voice": "c203_Lobby_Stay_1",
       "probability": 1.0
     },
     {
@@ -6695,6 +6710,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "203_stay_02",
+      "rection_voice": "c203_Lobby_Stay_Love_1",
       "probability": 1.0
     },
     {
@@ -6707,6 +6723,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_speech_01",
+      "rection_voice": "c193_Lobby_Touch_1",
       "probability": 0.3
     },
     {
@@ -6719,6 +6736,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_speech_02",
+      "rection_voice": "c193_Lobby_Touch_2",
       "probability": 0.3
     },
     {
@@ -6731,6 +6749,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_speech_03",
+      "rection_voice": "c193_Lobby_Touch_3",
       "probability": 0.4
     },
     {
@@ -6743,6 +6762,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_speech_04",
+      "rection_voice": "c193_Lobby_Touch_Love_1",
       "probability": 0.3
     },
     {
@@ -6755,6 +6775,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_speech_05",
+      "rection_voice": "c193_Lobby_Touch_Love_2",
       "probability": 0.3
     },
     {
@@ -6767,6 +6788,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_speech_06",
+      "rection_voice": "c193_Lobby_Touch_Love_3",
       "probability": 0.4
     },
     {
@@ -6779,6 +6801,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_stay_01",
+      "rection_voice": "c193_Lobby_Stay_1",
       "probability": 1.0
     },
     {
@@ -6791,6 +6814,7 @@
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
       "speech_localkey": "193_stay_02",
+      "rection_voice": "c193_Lobby_Stay_Love_1",
       "probability": 1.0
     },
     {
@@ -8138,8 +8162,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_speech_01",
-      "rection_voice": "c090_Lobby_Touch_1",
+      "speech_localkey": "90_01_speech_01",
+      "rection_voice": "c090_01_Lobby_Touch_1",
       "probability": 0.3
     },
     {
@@ -8151,8 +8175,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_speech_02",
-      "rection_voice": "c090_Lobby_Touch_2",
+      "speech_localkey": "90_01_speech_02",
+      "rection_voice": "c090_01_Lobby_Touch_2",
       "probability": 0.3
     },
     {
@@ -8164,8 +8188,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_speech_03",
-      "rection_voice": "c090_Lobby_Touch_3",
+      "speech_localkey": "90_01_speech_03",
+      "rection_voice": "c090_01_Lobby_Touch_3",
       "probability": 0.4
     },
     {
@@ -8177,8 +8201,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_speech_04",
-      "rection_voice": "c090_Lobby_Touch_Love_1",
+      "speech_localkey": "90_01_speech_04",
+      "rection_voice": "c090_01_Lobby_Touch_Love_1",
       "probability": 0.3
     },
     {
@@ -8190,8 +8214,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_speech_05",
-      "rection_voice": "c090_Lobby_Touch_Love_2",
+      "speech_localkey": "90_01_speech_05",
+      "rection_voice": "c090_01_Lobby_Touch_Love_2",
       "probability": 0.3
     },
     {
@@ -8203,8 +8227,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_speech_06",
-      "rection_voice": "c090_Lobby_Touch_Love_3",
+      "speech_localkey": "90_01_speech_06",
+      "rection_voice": "c090_01_Lobby_Touch_Love_3",
       "probability": 0.4
     },
     {
@@ -8216,8 +8240,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_stay_01",
-      "rection_voice": "c090_Lobby_Stay_1",
+      "speech_localkey": "90_01_stay_01",
+      "rection_voice": "c090_01_Lobby_Stay_1",
       "probability": 1.0
     },
     {
@@ -8229,8 +8253,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "90_stay_02",
-      "rection_voice": "c090_Lobby_Stay_Love_1",
+      "speech_localkey": "90_01_stay_02",
+      "rection_voice": "c090_01_Lobby_Stay_Love_1",
       "probability": 1.0
     },
     {
@@ -8242,8 +8266,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_speech_01",
-      "rection_voice": "c210_Lobby_Touch_1",
+      "speech_localkey": "210_01_speech_01",
+      "rection_voice": "c210_01_Lobby_Touch_1",
       "probability": 0.3
     },
     {
@@ -8255,8 +8279,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_speech_02",
-      "rection_voice": "c210_Lobby_Touch_2",
+      "speech_localkey": "210_01_speech_02",
+      "rection_voice": "c210_01_Lobby_Touch_2",
       "probability": 0.3
     },
     {
@@ -8268,8 +8292,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_speech_03",
-      "rection_voice": "c210_Lobby_Touch_3",
+      "speech_localkey": "210_01_speech_03",
+      "rection_voice": "c210_01_Lobby_Touch_3",
       "probability": 0.4
     },
     {
@@ -8281,8 +8305,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_speech_04",
-      "rection_voice": "c210_Lobby_Touch_Love_1",
+      "speech_localkey": "210_01_speech_04",
+      "rection_voice": "c210_01_Lobby_Touch_Love_1",
       "probability": 0.3
     },
     {
@@ -8294,8 +8318,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_speech_05",
-      "rection_voice": "c210_Lobby_Touch_Love_2",
+      "speech_localkey": "210_01_speech_05",
+      "rection_voice": "c210_01_Lobby_Touch_Love_2",
       "probability": 0.3
     },
     {
@@ -8307,8 +8331,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_speech_06",
-      "rection_voice": "c210_Lobby_Touch_Love_3",
+      "speech_localkey": "210_01_speech_06",
+      "rection_voice": "c210_01_Lobby_Touch_Love_3",
       "probability": 0.4
     },
     {
@@ -8320,8 +8344,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_stay_01",
-      "rection_voice": "c210_Lobby_Stay_1",
+      "speech_localkey": "210_01_stay_01",
+      "rection_voice": "c210_01_Lobby_Stay_1",
       "probability": 1.0
     },
     {
@@ -8333,8 +8357,8 @@
       "costume_index": 1,
       "eventlobby_id": 0,
       "animation_clip": "expression_0",
-      "speech_localkey": "210_stay_02",
-      "rection_voice": "c210_Lobby_Stay_Love_1",
+      "speech_localkey": "210_01_stay_02",
+      "rection_voice": "c210_01_Lobby_Stay_Love_1",
       "probability": 1.0
     },
     {

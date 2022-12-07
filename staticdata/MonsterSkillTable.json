@@ -19111,8 +19111,7 @@
       "fire_type": "InstantAll",
       "casting_time": 300,
       "break_object": [
-        "break_col_01",
-        "break_col_02"
+        "break_col_01"
       ],
       "break_object_hp_raito": 20,
       "skill_value_type_01": "Percent",
@@ -19206,8 +19205,7 @@
       "fire_type": "InstantAll",
       "casting_time": 300,
       "break_object": [
-        "break_col_01",
-        "break_col_02"
+        "break_col_01"
       ],
       "break_object_hp_raito": 20,
       "skill_value_type_01": "Percent",
@@ -19299,12 +19297,12 @@
       "show_lock_on": true,
       "attack_type": "Wind",
       "fire_type": "InstantAll",
-      "casting_time": 300,
+      "casting_time": 150,
       "break_object": [
         "break_col_01",
         "break_col_02"
       ],
-      "break_object_hp_raito": 20,
+      "break_object_hp_raito": 15,
       "skill_value_type_01": "Percent",
       "skill_value_01": 6000,
       "skill_value_type_02": "None",
@@ -19624,14 +19622,14 @@
       "show_lock_on": true,
       "attack_type": "Wind",
       "fire_type": "InstantAll",
-      "casting_time": 300,
+      "casting_time": 150,
       "break_object": [
         "break_col_01",
         "break_col_02"
       ],
-      "break_object_hp_raito": 20,
+      "break_object_hp_raito": 15,
       "skill_value_type_01": "Percent",
-      "skill_value_01": 9000,
+      "skill_value_01": 8600,
       "skill_value_type_02": "None",
       "skill_value_02": 0,
       "shot_count": 1,

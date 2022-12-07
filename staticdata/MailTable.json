@@ -35,13 +35,13 @@
       "key": "WORLD_RAID_RANKING_REWARD",
       "title": "WORLD_RAID_RANKING_REWARD_MAIL_TITLE",
       "description": "WORLD_RAID_RANKING_REWARD_MAIL_DESC",
-      "sender_id": 102
+      "sender_id": 5
     },
     {
       "key": "WORLD_RAID_CLEAR_REWARD",
       "title": "WORLD_RAID_CLEAR_REWARD_MAIL_TITLE",
       "description": "WORLD_RAID_CLEAR_REWARD_MAIL_DESC",
-      "sender_id": 102
+      "sender_id": 5
     },
     {
       "key": "INFRACORE_GRADE_REWARD",
@@ -184,50 +184,86 @@
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_10000",
       "title": "ARENA_CHAMPION_UNION_REWARD_10000_MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_10000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_10000_MAIL_DESC",
       "sender_id": 4
     },
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_20000",
-      "title": "ARENA_CHAMPION_UNION_REWARD_20000MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_20000_MAIL_TITLE",
+      "title": "ARENA_CHAMPION_UNION_REWARD_20000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_20000_MAIL_DESC",
       "sender_id": 4
     },
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_30000",
-      "title": "ARENA_CHAMPION_UNION_REWARD_30000MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_30000_MAIL_TITLE",
+      "title": "ARENA_CHAMPION_UNION_REWARD_30000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_30000_MAIL_DESC",
       "sender_id": 4
     },
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_40000",
-      "title": "ARENA_CHAMPION_UNION_REWARD_40000MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_40000_MAIL_TITLE",
+      "title": "ARENA_CHAMPION_UNION_REWARD_40000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_40000_MAIL_DESC",
       "sender_id": 4
     },
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_50000",
-      "title": "ARENA_CHAMPION_UNION_REWARD_50000MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_50000_MAIL_TITLE",
+      "title": "ARENA_CHAMPION_UNION_REWARD_50000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_50000_MAIL_DESC",
       "sender_id": 4
     },
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_60000",
-      "title": "ARENA_CHAMPION_UNION_REWARD_60000MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_60000_MAIL_TITLE",
+      "title": "ARENA_CHAMPION_UNION_REWARD_60000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_60000_MAIL_DESC",
       "sender_id": 4
     },
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_70000",
-      "title": "ARENA_CHAMPION_UNION_REWARD_70000MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_70000_MAIL_TITLE",
+      "title": "ARENA_CHAMPION_UNION_REWARD_70000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_70000_MAIL_DESC",
       "sender_id": 4
     },
     {
       "key": "ARENA_CHAMPION_UNION_REWARD_80000",
-      "title": "ARENA_CHAMPION_UNION_REWARD_80000MAIL_TITLE",
-      "description": "ARENA_CHAMPION_UNION_REWARD_80000_MAIL_TITLE",
+      "title": "ARENA_CHAMPION_UNION_REWARD_80000_MAIL_TITLE",
+      "description": "ARENA_CHAMPION_UNION_REWARD_80000_MAIL_DESC",
       "sender_id": 4
+    },
+    {
+      "key": "ITEM_EXCHANGE_10001",
+      "title": "ITEM_EXCHANGE_10001_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10001_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10002",
+      "title": "ITEM_EXCHANGE_10002_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10002_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10003",
+      "title": "ITEM_EXCHANGE_10003_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10003_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10004",
+      "title": "ITEM_EXCHANGE_10004_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10004_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10005",
+      "title": "ITEM_EXCHANGE_10005_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10005_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10006",
+      "title": "ITEM_EXCHANGE_10006_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10006_MAIL_DESC",
+      "sender_id": 1
     }
   ]
 }

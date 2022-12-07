@@ -794,6 +794,17 @@
       ]
     },
     {
+      "id": "neve",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3011,
+      "name_locale": "193_name",
+      "thumbnail_image": "mi_c193_00_s",
+      "members": [
+        "neve"
+      ]
+    },
+    {
       "id": "counters",
       "type": "Group",
       "unlock_condition_squad": "None",

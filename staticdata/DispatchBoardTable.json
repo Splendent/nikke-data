@@ -128,7 +128,7 @@
       "dispatch_max": 3,
       "dispatch_list": [
         {
-          "dispatch_group": 20000,
+          "dispatch_group": 25000,
           "dispatch_prob": 20
         },
         {
@@ -152,7 +152,7 @@
       "dispatch_max": 3,
       "dispatch_list": [
         {
-          "dispatch_group": 20000,
+          "dispatch_group": 25000,
           "dispatch_prob": 15
         },
         {

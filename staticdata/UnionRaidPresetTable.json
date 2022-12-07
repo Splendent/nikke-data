@@ -16,7 +16,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400101
@@ -36,7 +36,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400102
@@ -56,7 +56,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400103
@@ -76,7 +76,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400104
@@ -96,7 +96,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400105
@@ -116,7 +116,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400101
@@ -136,7 +136,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400102
@@ -156,7 +156,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400103
@@ -176,7 +176,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400104
@@ -196,7 +196,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400105
@@ -216,7 +216,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400101
@@ -236,7 +236,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400102
@@ -256,7 +256,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400103
@@ -276,7 +276,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241001_name",
       "wave_description": "union_raid_241001_description",
-      "wave_banner_resource_id": "full_eca001",
+      "monster_image_si": "si_eca001",
       "monster_image": "full_eca001",
       "monster_spine_scale": 1,
       "reward_id": 3400104
@@ -296,7 +296,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400105
@@ -316,7 +316,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400201
@@ -336,7 +336,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400202
@@ -356,7 +356,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400203
@@ -376,7 +376,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400204
@@ -396,7 +396,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400205
@@ -416,7 +416,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400201
@@ -436,7 +436,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400202
@@ -456,7 +456,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400203
@@ -476,7 +476,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400204
@@ -496,7 +496,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400205
@@ -516,7 +516,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400201
@@ -536,7 +536,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400202
@@ -556,7 +556,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241002_name",
       "wave_description": "union_raid_241002_description",
-      "wave_banner_resource_id": "full_eca002",
+      "monster_image_si": "si_eca002",
       "monster_image": "full_eca002",
       "monster_spine_scale": 1,
       "reward_id": 3400203
@@ -576,7 +576,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400204
@@ -596,7 +596,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400205
@@ -616,7 +616,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400201
@@ -636,7 +636,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400202
@@ -656,7 +656,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400203
@@ -676,7 +676,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400204
@@ -696,7 +696,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400205
@@ -716,7 +716,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400301
@@ -736,7 +736,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400302
@@ -756,7 +756,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400303
@@ -776,7 +776,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400304
@@ -796,7 +796,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400305
@@ -816,7 +816,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400301
@@ -836,7 +836,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_241003_name",
       "wave_description": "union_raid_241003_description",
-      "wave_banner_resource_id": "full_ecg003",
+      "monster_image_si": "si_ecg003",
       "monster_image": "full_ecg003",
       "monster_spine_scale": 1,
       "reward_id": 3400302
@@ -856,7 +856,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400303
@@ -876,7 +876,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400304
@@ -896,7 +896,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400305
@@ -916,7 +916,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400301
@@ -936,7 +936,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400302
@@ -956,7 +956,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400303
@@ -976,7 +976,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400304
@@ -996,7 +996,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400305
@@ -1016,7 +1016,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400301
@@ -1036,7 +1036,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400302
@@ -1056,7 +1056,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400303
@@ -1076,7 +1076,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400304
@@ -1096,7 +1096,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400305
@@ -1116,7 +1116,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_252001_name",
       "wave_description": "union_raid_252001_description",
-      "wave_banner_resource_id": "full_ebg001",
+      "monster_image_si": "si_ebg001",
       "monster_image": "full_ebg001",
       "monster_spine_scale": 1,
       "reward_id": 3400301
@@ -1136,7 +1136,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400302
@@ -1156,7 +1156,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400303
@@ -1176,7 +1176,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400304
@@ -1196,7 +1196,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400305
@@ -1216,7 +1216,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400301
@@ -1236,7 +1236,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400302
@@ -1256,7 +1256,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400303
@@ -1276,7 +1276,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400304
@@ -1296,7 +1296,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400305
@@ -1316,7 +1316,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400301
@@ -1336,7 +1336,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400302
@@ -1356,7 +1356,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400303
@@ -1376,7 +1376,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400304
@@ -1396,7 +1396,7 @@
       "theme_time": "Day",
       "wave_name": "union_raid_251001_name",
       "wave_description": "union_raid_251001_description",
-      "wave_banner_resource_id": "full_eba001",
+      "monster_image_si": "si_eba001",
       "monster_image": "full_eba001",
       "monster_spine_scale": 1,
       "reward_id": 3400305

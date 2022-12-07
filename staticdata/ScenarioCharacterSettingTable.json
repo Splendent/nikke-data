@@ -2991,6 +2991,46 @@
       "address": "spine/standing/c917/00_HD"
     },
     {
+      "id": "c_1",
+      "name_localkey": "npc_04_name",
+      "resource_id": 800,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c800/00_HD"
+    },
+    {
+      "id": "c_2",
+      "name_localkey": "npc_04_name",
+      "resource_id": 801,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c801/00_HD"
+    },
+    {
+      "id": "c_3",
+      "name_localkey": "npc_04_name",
+      "resource_id": 802,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c802/00_HD"
+    },
+    {
+      "id": "c_npc_1",
+      "name_localkey": "npc_04_name",
+      "resource_id": 803,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c803/00_HD"
+    },
+    {
+      "id": "c_npc_2",
+      "name_localkey": "npc_04_name",
+      "resource_id": 804,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c804/00_HD"
+    },
+    {
       "id": "exia_c",
       "name_localkey": "210_name",
       "resource_id": 210,
@@ -3200,71 +3240,6 @@
       "skin_id": "default",
       "frame_type": "none",
       "address": "spine/standing/c999/00_HD"
-    },
-    {
-      "id": "quency",
-      "name_localkey": "402_name",
-      "resource_id": 402,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c402/00_HD",
-      "sd_resource_address": "c402_00_var"
-    },
-    {
-      "id": "dealprisoner",
-      "name_localkey": "npc_238_name",
-      "resource_id": 999,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c999/00_HD"
-    },
-    {
-      "id": "happyprisoner",
-      "name_localkey": "npc_239_name",
-      "resource_id": 999,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c999/00_HD"
-    },
-    {
-      "id": "leaderprisoner",
-      "name_localkey": "npc_240_name",
-      "resource_id": 999,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c999/00_HD"
-    },
-    {
-      "id": "timidprisone",
-      "name_localkey": "npc_241_name",
-      "resource_id": 999,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c999/00_HD"
-    },
-    {
-      "id": "poorprisoner",
-      "name_localkey": "npc_242_name",
-      "resource_id": 999,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c999/00_HD"
-    },
-    {
-      "id": "drunkprisoner",
-      "name_localkey": "npc_243_name",
-      "resource_id": 999,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c999/00_HD"
-    },
-    {
-      "id": "collaborator",
-      "name_localkey": "npc_244_name",
-      "resource_id": 911,
-      "skin_id": "default",
-      "frame_type": "none",
-      "address": "spine/standing/c911/00_HD"
     }
   ]
 }

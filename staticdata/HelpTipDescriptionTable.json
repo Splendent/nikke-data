@@ -716,6 +716,41 @@
       "value": "HELP_SPECIAL_ARENA_09_02"
     },
     {
+      "id": 16025,
+      "group": 160,
+      "order": 25,
+      "type": "Title",
+      "value": "HELP_SPECIAL_ARENA_10"
+    },
+    {
+      "id": 16026,
+      "group": 160,
+      "order": 26,
+      "type": "Description",
+      "value": "HELP_SPECIAL_ARENA_10_01"
+    },
+    {
+      "id": 16027,
+      "group": 160,
+      "order": 27,
+      "type": "Description",
+      "value": "HELP_SPECIAL_ARENA_10_02"
+    },
+    {
+      "id": 16028,
+      "group": 160,
+      "order": 28,
+      "type": "Description",
+      "value": "HELP_SPECIAL_ARENA_10_03"
+    },
+    {
+      "id": 16029,
+      "group": 160,
+      "order": 29,
+      "type": "Description",
+      "value": "HELP_SPECIAL_ARENA_10_04"
+    },
+    {
       "id": 17001,
       "group": 170,
       "order": 1,
@@ -1370,34 +1405,41 @@
       "id": 26003,
       "group": 260,
       "order": 3,
-      "type": "Title",
-      "value": "HELP_INFRACORE_02"
+      "type": "Description",
+      "value": "HELP_INFRACORE_01_02"
     },
     {
       "id": 26004,
       "group": 260,
       "order": 4,
-      "type": "Description",
-      "value": "HELP_INFRACORE_02_01"
+      "type": "Title",
+      "value": "HELP_INFRACORE_02"
     },
     {
       "id": 26005,
       "group": 260,
       "order": 5,
       "type": "Description",
-      "value": "HELP_INFRACORE_02_02"
+      "value": "HELP_INFRACORE_02_01"
     },
     {
       "id": 26006,
       "group": 260,
       "order": 6,
-      "type": "Title",
-      "value": "HELP_INFRACORE_03"
+      "type": "Description",
+      "value": "HELP_INFRACORE_02_02"
     },
     {
       "id": 26007,
       "group": 260,
       "order": 7,
+      "type": "Title",
+      "value": "HELP_INFRACORE_03"
+    },
+    {
+      "id": 26008,
+      "group": 260,
+      "order": 8,
       "type": "Description",
       "value": "HELP_INFRACORE_03_01"
     },
@@ -2148,124 +2190,159 @@
       "group": 390,
       "order": 3,
       "type": "Title",
-      "value": "HELP_GACHA_02"
+      "value": "HELP_GACHA_09"
     },
     {
       "id": 39004,
       "group": 390,
       "order": 4,
       "type": "Description",
-      "value": "HELP_GACHA_02_01"
+      "value": "HELP_GACHA_09_01"
     },
     {
       "id": 39005,
       "group": 390,
       "order": 5,
-      "type": "Description",
-      "value": "HELP_GACHA_02_02"
+      "type": "Title",
+      "value": "HELP_GACHA_02"
     },
     {
       "id": 39006,
       "group": 390,
       "order": 6,
       "type": "Description",
-      "value": "HELP_GACHA_02_03"
+      "value": "HELP_GACHA_02_01"
     },
     {
       "id": 39007,
       "group": 390,
       "order": 7,
       "type": "Description",
-      "value": "HELP_GACHA_02_04"
+      "value": "HELP_GACHA_02_02"
     },
     {
       "id": 39008,
       "group": 390,
       "order": 8,
-      "type": "Title",
-      "value": "HELP_GACHA_03"
+      "type": "Description",
+      "value": "HELP_GACHA_02_03"
     },
     {
       "id": 39009,
       "group": 390,
       "order": 9,
       "type": "Description",
-      "value": "HELP_GACHA_03_01"
+      "value": "HELP_GACHA_02_04"
     },
     {
       "id": 39010,
       "group": 390,
       "order": 10,
       "type": "Title",
-      "value": "HELP_GACHA_07"
+      "value": "HELP_GACHA_03"
     },
     {
       "id": 39011,
       "group": 390,
       "order": 11,
       "type": "Description",
-      "value": "HELP_GACHA_07_01"
+      "value": "HELP_GACHA_03_01"
     },
     {
       "id": 39012,
       "group": 390,
       "order": 12,
       "type": "Title",
-      "value": "HELP_GACHA_04"
+      "value": "HELP_GACHA_07"
     },
     {
       "id": 39013,
       "group": 390,
       "order": 13,
       "type": "Description",
-      "value": "HELP_GACHA_04_01"
+      "value": "HELP_GACHA_07_01"
     },
     {
       "id": 39014,
       "group": 390,
       "order": 14,
-      "type": "Description",
-      "value": "HELP_GACHA_04_02"
+      "type": "Title",
+      "value": "HELP_GACHA_08"
     },
     {
       "id": 39015,
       "group": 390,
       "order": 15,
-      "type": "Title",
-      "value": "HELP_GACHA_05"
+      "type": "Description",
+      "value": "HELP_GACHA_08_01"
     },
     {
       "id": 39016,
       "group": 390,
       "order": 16,
       "type": "Description",
-      "value": "HELP_GACHA_05_01"
+      "value": "HELP_GACHA_08_02"
     },
     {
       "id": 39017,
       "group": 390,
       "order": 17,
-      "type": "Description",
-      "value": "HELP_GACHA_05_02"
+      "type": "Title",
+      "value": "HELP_GACHA_04"
     },
     {
       "id": 39018,
       "group": 390,
       "order": 18,
-      "type": "Title",
-      "value": "HELP_GACHA_06"
+      "type": "Description",
+      "value": "HELP_GACHA_04_01"
     },
     {
       "id": 39019,
       "group": 390,
       "order": 19,
       "type": "Description",
-      "value": "HELP_GACHA_06_01"
+      "value": "HELP_GACHA_04_02"
     },
     {
       "id": 39020,
       "group": 390,
       "order": 20,
+      "type": "Title",
+      "value": "HELP_GACHA_05"
+    },
+    {
+      "id": 39021,
+      "group": 390,
+      "order": 21,
+      "type": "Description",
+      "value": "HELP_GACHA_05_01"
+    },
+    {
+      "id": 39022,
+      "group": 390,
+      "order": 22,
+      "type": "Description",
+      "value": "HELP_GACHA_05_02"
+    },
+    {
+      "id": 39023,
+      "group": 390,
+      "order": 23,
+      "type": "Title",
+      "value": "HELP_GACHA_06"
+    },
+    {
+      "id": 39024,
+      "group": 390,
+      "order": 24,
+      "type": "Description",
+      "value": "HELP_GACHA_06_01"
+    },
+    {
+      "id": 39025,
+      "group": 390,
+      "order": 25,
       "type": "Description",
       "value": "HELP_GACHA_06_02"
     },
@@ -2989,6 +3066,1189 @@
       "order": 7,
       "type": "Description",
       "value": "HELP_UNION_RAID_03_01"
+    },
+    {
+      "id": 46001,
+      "group": 460,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_SORTOUT_EVENT_01"
+    },
+    {
+      "id": 46002,
+      "group": 460,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_01_01"
+    },
+    {
+      "id": 46003,
+      "group": 460,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_SORTOUT_EVENT_02"
+    },
+    {
+      "id": 46004,
+      "group": 460,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_02_01"
+    },
+    {
+      "id": 46005,
+      "group": 460,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_02_02"
+    },
+    {
+      "id": 46006,
+      "group": 460,
+      "order": 6,
+      "type": "Title",
+      "value": "HELP_SORTOUT_EVENT_03"
+    },
+    {
+      "id": 46007,
+      "group": 460,
+      "order": 7,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_03_01"
+    },
+    {
+      "id": 46008,
+      "group": 460,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_03_02"
+    },
+    {
+      "id": 46009,
+      "group": 460,
+      "order": 9,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_03_03"
+    },
+    {
+      "id": 46010,
+      "group": 460,
+      "order": 10,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_03_04"
+    },
+    {
+      "id": 46011,
+      "group": 460,
+      "order": 11,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_03_05"
+    },
+    {
+      "id": 46012,
+      "group": 460,
+      "order": 12,
+      "type": "Title",
+      "value": "HELP_SORTOUT_EVENT_04"
+    },
+    {
+      "id": 46013,
+      "group": 460,
+      "order": 13,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_04_01"
+    },
+    {
+      "id": 46014,
+      "group": 460,
+      "order": 14,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_04_02"
+    },
+    {
+      "id": 46015,
+      "group": 460,
+      "order": 15,
+      "type": "Title",
+      "value": "HELP_SORTOUT_EVENT_05"
+    },
+    {
+      "id": 46016,
+      "group": 460,
+      "order": 16,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_05_01"
+    },
+    {
+      "id": 46017,
+      "group": 460,
+      "order": 17,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_05_02"
+    },
+    {
+      "id": 46018,
+      "group": 460,
+      "order": 18,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_05_03"
+    },
+    {
+      "id": 46019,
+      "group": 460,
+      "order": 19,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_05_04"
+    },
+    {
+      "id": 46020,
+      "group": 460,
+      "order": 20,
+      "type": "Title",
+      "value": "HELP_SORTOUT_EVENT_06"
+    },
+    {
+      "id": 46021,
+      "group": 460,
+      "order": 21,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_06_01"
+    },
+    {
+      "id": 46022,
+      "group": 460,
+      "order": 22,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_06_02"
+    },
+    {
+      "id": 46023,
+      "group": 460,
+      "order": 23,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_06_03"
+    },
+    {
+      "id": 46024,
+      "group": 460,
+      "order": 24,
+      "type": "Title",
+      "value": "HELP_SORTOUT_EVENT_07"
+    },
+    {
+      "id": 46025,
+      "group": 460,
+      "order": 25,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_07_01"
+    },
+    {
+      "id": 46026,
+      "group": 460,
+      "order": 26,
+      "type": "Description",
+      "value": "HELP_SORTOUT_EVENT_07_02"
+    },
+    {
+      "id": 47001,
+      "group": 470,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_PASS_01"
+    },
+    {
+      "id": 47002,
+      "group": 470,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_PASS_01_01"
+    },
+    {
+      "id": 47003,
+      "group": 470,
+      "order": 3,
+      "type": "Description",
+      "value": "HELP_PASS_01_02"
+    },
+    {
+      "id": 47004,
+      "group": 470,
+      "order": 4,
+      "type": "Title",
+      "value": "HELP_PASS_02"
+    },
+    {
+      "id": 47005,
+      "group": 470,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_PASS_02_01"
+    },
+    {
+      "id": 47006,
+      "group": 470,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_PASS_02_02"
+    },
+    {
+      "id": 47007,
+      "group": 470,
+      "order": 7,
+      "type": "Title",
+      "value": "HELP_PASS_03"
+    },
+    {
+      "id": 47008,
+      "group": 470,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_PASS_03_01"
+    },
+    {
+      "id": 47009,
+      "group": 470,
+      "order": 9,
+      "type": "Description",
+      "value": "HELP_PASS_03_02"
+    },
+    {
+      "id": 48001,
+      "group": 480,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_COMEBACK_EVENT_01"
+    },
+    {
+      "id": 48002,
+      "group": 480,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_COMEBACK_EVENT_01_01"
+    },
+    {
+      "id": 48003,
+      "group": 480,
+      "order": 3,
+      "type": "Description",
+      "value": "HELP_COMEBACK_EVENT_01_02"
+    },
+    {
+      "id": 48004,
+      "group": 480,
+      "order": 4,
+      "type": "Title",
+      "value": "HELP_COMEBACK_EVENT_02"
+    },
+    {
+      "id": 48005,
+      "group": 480,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_COMEBACK_EVENT_02_01"
+    },
+    {
+      "id": 48006,
+      "group": 480,
+      "order": 6,
+      "type": "Title",
+      "value": "HELP_COMEBACK_EVENT_03"
+    },
+    {
+      "id": 48007,
+      "group": 480,
+      "order": 7,
+      "type": "Description",
+      "value": "HELP_COMEBACK_EVENT_03_01"
+    },
+    {
+      "id": 48008,
+      "group": 480,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_COMEBACK_EVENT_03_02"
+    },
+    {
+      "id": 49001,
+      "group": 490,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_EVENT_FIELD_EVENT_01"
+    },
+    {
+      "id": 49002,
+      "group": 490,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_EVENT_FIELD_EVENT_01_01"
+    },
+    {
+      "id": 49003,
+      "group": 490,
+      "order": 3,
+      "type": "Description",
+      "value": "HELP_EVENT_FIELD_EVENT_01_02"
+    },
+    {
+      "id": 49004,
+      "group": 490,
+      "order": 4,
+      "type": "Title",
+      "value": "HELP_EVENT_FIELD_EVENT_02"
+    },
+    {
+      "id": 49005,
+      "group": 490,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_EVENT_FIELD_EVENT_02_01"
+    },
+    {
+      "id": 49006,
+      "group": 490,
+      "order": 6,
+      "type": "Title",
+      "value": "HELP_EVENT_FIELD_EVENT_03"
+    },
+    {
+      "id": 49007,
+      "group": 490,
+      "order": 7,
+      "type": "Description",
+      "value": "HELP_EVENT_FIELD_EVENT_03_01"
+    },
+    {
+      "id": 50001,
+      "group": 500,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_EVENT_ITEM_AUTO_CHARGE_01"
+    },
+    {
+      "id": 50002,
+      "group": 500,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_EVENT_ITEM_AUTO_CHARGE_01_01"
+    },
+    {
+      "id": 50003,
+      "group": 500,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_EVENT_ITEM_AUTO_CHARGE_02"
+    },
+    {
+      "id": 50004,
+      "group": 500,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_EVENT_ITEM_AUTO_CHARGE_02_01"
+    },
+    {
+      "id": 50005,
+      "group": 500,
+      "order": 5,
+      "type": "Title",
+      "value": "HELP_EVENT_ITEM_AUTO_CHARGE_03"
+    },
+    {
+      "id": 50006,
+      "group": 500,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_EVENT_ITEM_AUTO_CHARGE_03_01"
+    },
+    {
+      "id": 50007,
+      "group": 500,
+      "order": 7,
+      "type": "Description",
+      "value": "HELP_EVENT_ITEM_AUTO_CHARGE_03_02"
+    },
+    {
+      "id": 51001,
+      "group": 510,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_01"
+    },
+    {
+      "id": 51002,
+      "group": 510,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_01_01"
+    },
+    {
+      "id": 51003,
+      "group": 510,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_02"
+    },
+    {
+      "id": 51004,
+      "group": 510,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_02_01"
+    },
+    {
+      "id": 51005,
+      "group": 510,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_02_02"
+    },
+    {
+      "id": 51006,
+      "group": 510,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_02_03"
+    },
+    {
+      "id": 51007,
+      "group": 510,
+      "order": 7,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_02_04"
+    },
+    {
+      "id": 51008,
+      "group": 510,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_02_05"
+    },
+    {
+      "id": 51009,
+      "group": 510,
+      "order": 9,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_03"
+    },
+    {
+      "id": 51010,
+      "group": 510,
+      "order": 10,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_03_01"
+    },
+    {
+      "id": 51011,
+      "group": 510,
+      "order": 11,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BONUS_REWARD_03_02"
+    },
+    {
+      "id": 52001,
+      "group": 520,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_01"
+    },
+    {
+      "id": 52002,
+      "group": 520,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_01_01"
+    },
+    {
+      "id": 52003,
+      "group": 520,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_02"
+    },
+    {
+      "id": 52004,
+      "group": 520,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_02_01"
+    },
+    {
+      "id": 52005,
+      "group": 520,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_02_02"
+    },
+    {
+      "id": 52006,
+      "group": 520,
+      "order": 6,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_03"
+    },
+    {
+      "id": 52007,
+      "group": 520,
+      "order": 7,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_03_01"
+    },
+    {
+      "id": 52008,
+      "group": 520,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_03_02"
+    },
+    {
+      "id": 52009,
+      "group": 520,
+      "order": 9,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_03_03"
+    },
+    {
+      "id": 52010,
+      "group": 520,
+      "order": 10,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_03_04"
+    },
+    {
+      "id": 52011,
+      "group": 520,
+      "order": 11,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_03_05"
+    },
+    {
+      "id": 52012,
+      "group": 520,
+      "order": 12,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_04"
+    },
+    {
+      "id": 52013,
+      "group": 520,
+      "order": 13,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_04_01"
+    },
+    {
+      "id": 52014,
+      "group": 520,
+      "order": 14,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_04_02"
+    },
+    {
+      "id": 52015,
+      "group": 520,
+      "order": 15,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_05"
+    },
+    {
+      "id": 52016,
+      "group": 520,
+      "order": 16,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_05_01"
+    },
+    {
+      "id": 52017,
+      "group": 520,
+      "order": 17,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_05_02"
+    },
+    {
+      "id": 52018,
+      "group": 520,
+      "order": 18,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_06"
+    },
+    {
+      "id": 52019,
+      "group": 520,
+      "order": 19,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_06_01"
+    },
+    {
+      "id": 52020,
+      "group": 520,
+      "order": 20,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_07"
+    },
+    {
+      "id": 52021,
+      "group": 520,
+      "order": 21,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_07_01"
+    },
+    {
+      "id": 52022,
+      "group": 520,
+      "order": 22,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_07_02"
+    },
+    {
+      "id": 52023,
+      "group": 520,
+      "order": 23,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_08"
+    },
+    {
+      "id": 52024,
+      "group": 520,
+      "order": 24,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_MIRACLE_SNOW_08_01"
+    },
+    {
+      "id": 53001,
+      "group": 530,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_01"
+    },
+    {
+      "id": 53002,
+      "group": 530,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_01_01"
+    },
+    {
+      "id": 53003,
+      "group": 530,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_02"
+    },
+    {
+      "id": 53004,
+      "group": 530,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_02_01"
+    },
+    {
+      "id": 53005,
+      "group": 530,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_02_02"
+    },
+    {
+      "id": 53006,
+      "group": 530,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_02_03"
+    },
+    {
+      "id": 53007,
+      "group": 530,
+      "order": 7,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_03"
+    },
+    {
+      "id": 53008,
+      "group": 530,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_03_01"
+    },
+    {
+      "id": 53009,
+      "group": 530,
+      "order": 9,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_03_02"
+    },
+    {
+      "id": 53010,
+      "group": 530,
+      "order": 10,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_03_03"
+    },
+    {
+      "id": 53011,
+      "group": 530,
+      "order": 11,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_03_04"
+    },
+    {
+      "id": 53012,
+      "group": 530,
+      "order": 12,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_03_05"
+    },
+    {
+      "id": 53013,
+      "group": 530,
+      "order": 13,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_04"
+    },
+    {
+      "id": 53014,
+      "group": 530,
+      "order": 14,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_04_01"
+    },
+    {
+      "id": 53015,
+      "group": 530,
+      "order": 15,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_04_02"
+    },
+    {
+      "id": 53016,
+      "group": 530,
+      "order": 16,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_05"
+    },
+    {
+      "id": 53017,
+      "group": 530,
+      "order": 17,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_05_01"
+    },
+    {
+      "id": 53018,
+      "group": 530,
+      "order": 18,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_05_02"
+    },
+    {
+      "id": 53019,
+      "group": 530,
+      "order": 19,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_06"
+    },
+    {
+      "id": 53020,
+      "group": 530,
+      "order": 20,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_06_01"
+    },
+    {
+      "id": 53021,
+      "group": 530,
+      "order": 21,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_07"
+    },
+    {
+      "id": 53022,
+      "group": 530,
+      "order": 22,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_07_01"
+    },
+    {
+      "id": 53023,
+      "group": 530,
+      "order": 23,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_07_02"
+    },
+    {
+      "id": 53024,
+      "group": 530,
+      "order": 24,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_08"
+    },
+    {
+      "id": 53025,
+      "group": 530,
+      "order": 25,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_ETERNAL_MEMORY_08_01"
+    },
+    {
+      "id": 54001,
+      "group": 540,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_01"
+    },
+    {
+      "id": 54002,
+      "group": 540,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_01_01"
+    },
+    {
+      "id": 54003,
+      "group": 540,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_02"
+    },
+    {
+      "id": 54004,
+      "group": 540,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_02_01"
+    },
+    {
+      "id": 54005,
+      "group": 540,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_02_02"
+    },
+    {
+      "id": 54006,
+      "group": 540,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_02_03"
+    },
+    {
+      "id": 54007,
+      "group": 540,
+      "order": 7,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_03"
+    },
+    {
+      "id": 54008,
+      "group": 540,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_03_01"
+    },
+    {
+      "id": 54009,
+      "group": 540,
+      "order": 9,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_03_02"
+    },
+    {
+      "id": 54010,
+      "group": 540,
+      "order": 10,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_03_03"
+    },
+    {
+      "id": 54011,
+      "group": 540,
+      "order": 11,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_03_04"
+    },
+    {
+      "id": 54012,
+      "group": 540,
+      "order": 12,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_03_05"
+    },
+    {
+      "id": 54013,
+      "group": 540,
+      "order": 13,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_04"
+    },
+    {
+      "id": 54014,
+      "group": 540,
+      "order": 14,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_04_01"
+    },
+    {
+      "id": 54015,
+      "group": 540,
+      "order": 15,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_04_02"
+    },
+    {
+      "id": 54016,
+      "group": 540,
+      "order": 16,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_05"
+    },
+    {
+      "id": 54017,
+      "group": 540,
+      "order": 17,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_05_01"
+    },
+    {
+      "id": 54018,
+      "group": 540,
+      "order": 18,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_05_02"
+    },
+    {
+      "id": 54019,
+      "group": 540,
+      "order": 19,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_06"
+    },
+    {
+      "id": 54020,
+      "group": 540,
+      "order": 20,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_06_01"
+    },
+    {
+      "id": 54021,
+      "group": 540,
+      "order": 21,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_07"
+    },
+    {
+      "id": 54022,
+      "group": 540,
+      "order": 22,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_07_01"
+    },
+    {
+      "id": 54023,
+      "group": 540,
+      "order": 23,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_07_02"
+    },
+    {
+      "id": 54024,
+      "group": 540,
+      "order": 24,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_08"
+    },
+    {
+      "id": 54025,
+      "group": 540,
+      "order": 25,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_08_01"
+    },
+    {
+      "id": 54026,
+      "group": 540,
+      "order": 26,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_09"
+    },
+    {
+      "id": 54027,
+      "group": 540,
+      "order": 27,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_09_01"
+    },
+    {
+      "id": 54028,
+      "group": 540,
+      "order": 28,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_09_02"
+    },
+    {
+      "id": 54029,
+      "group": 540,
+      "order": 29,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_10"
+    },
+    {
+      "id": 54030,
+      "group": 540,
+      "order": 30,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_10_01"
+    },
+    {
+      "id": 54031,
+      "group": 540,
+      "order": 31,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_10_02"
+    },
+    {
+      "id": 54032,
+      "group": 540,
+      "order": 32,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_10_03"
+    },
+    {
+      "id": 54033,
+      "group": 540,
+      "order": 33,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_11"
+    },
+    {
+      "id": 54034,
+      "group": 540,
+      "order": 34,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_11_01"
+    },
+    {
+      "id": 54035,
+      "group": 540,
+      "order": 35,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_11_02"
+    },
+    {
+      "id": 54036,
+      "group": 540,
+      "order": 36,
+      "type": "Title",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_12"
+    },
+    {
+      "id": 54037,
+      "group": 540,
+      "order": 37,
+      "type": "Description",
+      "value": "HELP_EVENT_STORY_BRAND_NEW_YEAR_12_01"
+    },
+    {
+      "id": 90001,
+      "group": 900,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_GACHA_FIRST_01"
+    },
+    {
+      "id": 90002,
+      "group": 900,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_GACHA_FIRST_01_01"
+    },
+    {
+      "id": 90003,
+      "group": 900,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_GACHA_FIRST_02"
+    },
+    {
+      "id": 90004,
+      "group": 900,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_GACHA_FIRST_02_01"
+    },
+    {
+      "id": 90005,
+      "group": 900,
+      "order": 5,
+      "type": "Title",
+      "value": "HELP_GACHA_FIRST_03"
+    },
+    {
+      "id": 90006,
+      "group": 900,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_GACHA_FIRST_03_01"
+    },
+    {
+      "id": 90007,
+      "group": 900,
+      "order": 7,
+      "type": "Title",
+      "value": "HELP_GACHA_FIRST_04"
+    },
+    {
+      "id": 90008,
+      "group": 900,
+      "order": 8,
+      "type": "Description",
+      "value": "HELP_GACHA_FIRST_04_01"
+    },
+    {
+      "id": 90009,
+      "group": 900,
+      "order": 9,
+      "type": "Description",
+      "value": "HELP_GACHA_FIRST_04_02"
+    },
+    {
+      "id": 90101,
+      "group": 901,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_GACHA_2023_NEWYEAR_01"
+    },
+    {
+      "id": 90102,
+      "group": 901,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_GACHA_2023_NEWYEAR_01_01"
+    },
+    {
+      "id": 90103,
+      "group": 901,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_GACHA_2023_NEWYEAR_02"
+    },
+    {
+      "id": 90104,
+      "group": 901,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_GACHA_2023_NEWYEAR_02_01"
+    },
+    {
+      "id": 90105,
+      "group": 901,
+      "order": 5,
+      "type": "Title",
+      "value": "HELP_GACHA_2023_NEWYEAR_03"
+    },
+    {
+      "id": 90106,
+      "group": 901,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_GACHA_2023_NEWYEAR_03_01"
     }
   ]
 }

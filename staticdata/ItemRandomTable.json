@@ -15165,6 +15165,204 @@
       "reward_value_min": 2000001,
       "reward_value_max": 3000001,
       "ratio": 1000
+    },
+    {
+      "id": 42030203,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 5201201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030204,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 5202201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030205,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 5203201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1300
+    },
+    {
+      "id": 42030206,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 5204201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1300
+    },
+    {
+      "id": 42030207,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 7040001,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030208,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 5210201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030209,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 5220201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030210,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 5230201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030211,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 9120001,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 700
+    },
+    {
+      "id": 42030212,
+      "group_id": 9420001,
+      "reward_type": "Item",
+      "reward_id": 9110001,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 700
+    },
+    {
+      "id": 42030213,
+      "group_id": 9420002,
+      "reward_type": "Currency",
+      "reward_id": 99,
+      "reward_value_min": 100,
+      "reward_value_max": 100,
+      "ratio": 100
+    },
+    {
+      "id": 42030214,
+      "group_id": 9420002,
+      "reward_type": "Currency",
+      "reward_id": 99,
+      "reward_value_min": 20,
+      "reward_value_max": 20,
+      "ratio": 500
+    },
+    {
+      "id": 42030215,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 5201201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030216,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 5202201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030217,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 5203201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030218,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 5204201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030219,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 7040001,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030220,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 5210201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030221,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 5220201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030222,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 5230201,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 1000
+    },
+    {
+      "id": 42030223,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 9120001,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 700
+    },
+    {
+      "id": 42030224,
+      "group_id": 9420002,
+      "reward_type": "Item",
+      "reward_id": 9110001,
+      "reward_value_min": 1,
+      "reward_value_max": 1,
+      "ratio": 700
     }
   ]
 }

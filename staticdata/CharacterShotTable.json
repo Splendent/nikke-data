@@ -16,6 +16,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -38,6 +39,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -54,7 +56,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1001101,
@@ -71,6 +73,7 @@
       "is_targeting": true,
       "damage": 22450,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 60,
@@ -93,6 +96,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -109,7 +113,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1001201,
@@ -126,6 +130,7 @@
       "is_targeting": false,
       "damage": 6502,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 67,
@@ -148,6 +153,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -165,7 +171,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1001301,
@@ -182,6 +188,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -204,6 +211,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -220,7 +228,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1001302,
@@ -237,6 +245,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -259,6 +268,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -275,7 +285,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1001303,
@@ -292,6 +302,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -314,6 +325,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -330,7 +342,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1002001,
@@ -347,6 +359,7 @@
       "is_targeting": false,
       "damage": 6595,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 150,
@@ -369,6 +382,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -385,7 +399,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1002201,
@@ -402,6 +416,7 @@
       "is_targeting": true,
       "damage": 810,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 100,
@@ -424,6 +439,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -440,7 +456,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1003001,
@@ -457,6 +473,7 @@
       "is_targeting": true,
       "damage": 20150,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 150,
@@ -479,6 +496,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -495,7 +513,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1003201,
@@ -512,6 +530,7 @@
       "is_targeting": true,
       "damage": 864,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 143,
@@ -534,6 +553,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -550,7 +570,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1004001,
@@ -567,6 +587,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -589,6 +610,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -605,7 +627,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1004101,
@@ -622,6 +644,7 @@
       "is_targeting": true,
       "damage": 911,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 180,
@@ -644,6 +667,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -660,7 +684,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1005301,
@@ -677,6 +701,7 @@
       "is_targeting": true,
       "damage": 1414,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 130,
@@ -699,6 +724,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -715,7 +741,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1006001,
@@ -732,6 +758,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -754,6 +781,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 150,
       "full_charge_damage": 35000,
@@ -771,7 +799,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1006101,
@@ -788,6 +816,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -810,6 +839,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -827,7 +857,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1007001,
@@ -844,6 +874,7 @@
       "is_targeting": true,
       "damage": 1429,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 130,
@@ -866,6 +897,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -882,7 +914,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1007101,
@@ -899,6 +931,7 @@
       "is_targeting": true,
       "damage": 468,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 200,
@@ -921,6 +954,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -937,7 +971,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1007201,
@@ -954,6 +988,7 @@
       "is_targeting": false,
       "damage": 538,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 216,
@@ -976,6 +1011,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -992,7 +1028,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1008001,
@@ -1009,6 +1045,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 50,
@@ -1031,6 +1068,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -1048,7 +1086,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1008101,
@@ -1065,6 +1103,7 @@
       "is_targeting": true,
       "damage": 19460,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 130,
@@ -1087,6 +1126,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1103,7 +1143,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1008201,
@@ -1120,6 +1160,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -1142,6 +1183,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1158,7 +1200,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1009001,
@@ -1175,6 +1217,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -1197,6 +1240,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1213,7 +1257,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1009101,
@@ -1230,6 +1274,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -1252,6 +1297,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -1269,7 +1315,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1009102,
@@ -1284,6 +1330,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -1306,6 +1353,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 40,
       "charge_time": 100,
       "full_charge_damage": 10000,
@@ -1323,7 +1371,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1009201,
@@ -1340,6 +1388,7 @@
       "is_targeting": false,
       "damage": 7107,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 233,
@@ -1362,6 +1411,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -1378,7 +1428,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1010001,
@@ -1395,6 +1445,7 @@
       "is_targeting": false,
       "damage": 6311,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 233,
@@ -1417,6 +1468,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 300,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -1434,7 +1486,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1010002,
@@ -1449,11 +1501,12 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
-      "max_ammo": 0,
+      "max_ammo": 999,
       "reload_time": 0,
       "reload_bullet": 0,
-      "reload_start_ammo": 0,
+      "reload_start_ammo": 998,
       "rate_of_fire_reset_time": 100,
       "rate_of_fire": 0,
       "end_rate_of_fire": 0,
@@ -1471,6 +1524,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1478,7 +1532,7 @@
       "spot_radius": 0,
       "spot_explosion_range": 0,
       "core_damage_rate": 20000,
-      "penetration": 150,
+      "penetration": 50,
       "use_function_id_list": [
         0
       ],
@@ -1487,7 +1541,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1010101,
@@ -1504,6 +1558,7 @@
       "is_targeting": true,
       "damage": 21430,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 50,
@@ -1526,6 +1581,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1542,7 +1598,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1010201,
@@ -1559,6 +1615,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -1581,6 +1638,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -1597,7 +1655,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1010202,
@@ -1612,6 +1670,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -1634,6 +1693,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 200,
       "full_charge_damage": 30000,
@@ -1650,7 +1710,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1011001,
@@ -1667,6 +1727,7 @@
       "is_targeting": true,
       "damage": 447,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 167,
@@ -1689,6 +1750,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1705,7 +1767,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1011101,
@@ -1722,6 +1784,7 @@
       "is_targeting": false,
       "damage": 6502,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 67,
@@ -1744,6 +1807,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -1761,7 +1825,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1011201,
@@ -1778,6 +1842,7 @@
       "is_targeting": true,
       "damage": 22040,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 56,
@@ -1800,6 +1865,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1816,7 +1882,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1012001,
@@ -1833,6 +1899,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -1855,6 +1922,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 150,
       "full_charge_damage": 35000,
@@ -1872,7 +1940,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1013001,
@@ -1889,6 +1957,7 @@
       "is_targeting": true,
       "damage": 20150,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 150,
@@ -1911,6 +1980,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1927,7 +1997,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1013101,
@@ -1944,6 +2014,7 @@
       "is_targeting": true,
       "damage": 23160,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 67,
@@ -1966,6 +2037,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -1982,7 +2054,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1014001,
@@ -1999,6 +2071,7 @@
       "is_targeting": true,
       "damage": 23160,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 67,
@@ -2021,6 +2094,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2037,7 +2111,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1014002,
@@ -2052,6 +2126,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 3,
+      "multi_target_count": 0,
       "center_shot_count": 1,
       "max_ammo": 0,
       "reload_time": 0,
@@ -2074,6 +2149,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 0,
@@ -2090,7 +2166,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1014101,
@@ -2107,6 +2183,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -2129,6 +2206,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -2145,7 +2223,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1014102,
@@ -2160,6 +2238,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -2182,6 +2261,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 10,
       "full_charge_damage": 10000,
@@ -2198,7 +2278,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1014201,
@@ -2215,6 +2295,7 @@
       "is_targeting": false,
       "damage": 6595,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 150,
@@ -2237,6 +2318,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -2253,7 +2335,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1015001,
@@ -2270,6 +2352,7 @@
       "is_targeting": true,
       "damage": 1407,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 120,
@@ -2292,6 +2375,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2308,7 +2392,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1016001,
@@ -2325,6 +2409,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -2347,6 +2432,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 150,
       "full_charge_damage": 35000,
@@ -2364,7 +2450,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1016002,
@@ -2379,6 +2465,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -2401,6 +2488,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 10000,
@@ -2417,7 +2505,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1016101,
@@ -2434,6 +2522,7 @@
       "is_targeting": true,
       "damage": 1507,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 167,
@@ -2456,6 +2545,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2472,7 +2562,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1017001,
@@ -2489,6 +2579,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -2511,6 +2602,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2527,7 +2619,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1017101,
@@ -2544,6 +2636,7 @@
       "is_targeting": false,
       "damage": 6823,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 187,
@@ -2566,6 +2659,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -2582,7 +2676,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1017201,
@@ -2599,6 +2693,7 @@
       "is_targeting": false,
       "damage": 6737,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 173,
@@ -2621,6 +2716,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -2637,7 +2733,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1018001,
@@ -2654,6 +2750,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -2676,6 +2773,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2692,7 +2790,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1018101,
@@ -2709,6 +2807,7 @@
       "is_targeting": true,
       "damage": 23160,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 67,
@@ -2731,6 +2830,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2747,7 +2847,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1019001,
@@ -2764,6 +2864,7 @@
       "is_targeting": true,
       "damage": 1032,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 276,
@@ -2786,6 +2887,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2802,7 +2904,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1019101,
@@ -2819,6 +2921,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -2841,6 +2944,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 150,
       "full_charge_damage": 35000,
@@ -2857,7 +2961,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1020001,
@@ -2874,6 +2978,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -2896,6 +3001,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -2912,7 +3018,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1020101,
@@ -2929,6 +3035,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -2951,6 +3058,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 150,
       "full_charge_damage": 35000,
@@ -2968,7 +3076,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1020102,
@@ -2983,6 +3091,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -3005,6 +3114,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 150,
       "full_charge_damage": 35000,
@@ -3022,7 +3132,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1020201,
@@ -3039,6 +3149,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -3061,6 +3172,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -3077,7 +3189,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1020202,
@@ -3092,6 +3204,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -3114,6 +3227,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 10,
       "full_charge_damage": 10000,
@@ -3130,7 +3244,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1021001,
@@ -3147,6 +3261,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -3169,6 +3284,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -3185,7 +3301,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1021201,
@@ -3202,6 +3318,7 @@
       "is_targeting": true,
       "damage": 810,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 100,
@@ -3224,6 +3341,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3240,7 +3358,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1022001,
@@ -3257,6 +3375,7 @@
       "is_targeting": true,
       "damage": 1471,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 150,
@@ -3279,6 +3398,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3295,7 +3415,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1022002,
@@ -3310,6 +3430,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -3332,6 +3453,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 500,
       "full_charge_damage": 100000,
@@ -3348,7 +3470,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1022101,
@@ -3365,6 +3487,7 @@
       "is_targeting": false,
       "damage": 6295,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 230,
@@ -3387,6 +3510,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -3404,7 +3528,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1022201,
@@ -3421,6 +3545,7 @@
       "is_targeting": true,
       "damage": 2708,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 20,
       "reload_time": 230,
@@ -3443,6 +3568,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3459,7 +3585,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1023001,
@@ -3476,6 +3602,7 @@
       "is_targeting": false,
       "damage": 7089,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 230,
@@ -3498,6 +3625,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -3514,7 +3642,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1023101,
@@ -3531,6 +3659,7 @@
       "is_targeting": true,
       "damage": 21070,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 186,
@@ -3553,6 +3682,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3569,7 +3699,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1023201,
@@ -3586,6 +3716,7 @@
       "is_targeting": false,
       "damage": 3202,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 250,
@@ -3608,6 +3739,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -3625,7 +3757,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1023202,
@@ -3640,6 +3772,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -3662,6 +3795,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 150,
       "full_charge_damage": 30000,
@@ -3678,7 +3812,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1024001,
@@ -3695,6 +3829,7 @@
       "is_targeting": false,
       "damage": 6349,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 60,
@@ -3717,6 +3852,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -3734,7 +3870,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1024101,
@@ -3751,6 +3887,7 @@
       "is_targeting": true,
       "damage": 810,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 100,
@@ -3773,6 +3910,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3789,7 +3927,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1024201,
@@ -3806,6 +3944,7 @@
       "is_targeting": true,
       "damage": 1429,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 130,
@@ -3828,6 +3967,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3844,7 +3984,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1026001,
@@ -3861,6 +4001,7 @@
       "is_targeting": false,
       "damage": 546,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 230,
@@ -3883,6 +4024,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3899,7 +4041,62 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
+    },
+    {
+      "id": 1026002,
+      "camera_work": "camera_work_02",
+      "weapon_type": "MG",
+      "attack_type": "Energy",
+      "counter_enermy": "None",
+      "prefer_target": "TargetPS",
+      "shot_timing": "Concurrence",
+      "fire_type": "MultiTarget",
+      "input_type": "DOWN",
+      "is_targeting": false,
+      "damage": 0,
+      "shot_count": 1,
+      "multi_target_count": 0,
+      "center_shot_count": 0,
+      "max_ammo": 300,
+      "reload_time": 230,
+      "reload_bullet": 10000,
+      "reload_start_ammo": 299,
+      "rate_of_fire_reset_time": 100,
+      "rate_of_fire": 60,
+      "end_rate_of_fire": 4200,
+      "rate_of_fire_change_pershot": 100,
+      "burst_energy_pershot": 5,
+      "target_burst_energy_pershot": 10,
+      "spot_first_delay": 20,
+      "spot_last_delay": 20,
+      "start_accuracy_circle_scale": 10,
+      "end_accuracy_circle_scale": 10,
+      "accuracy_change_pershot": 0,
+      "accuracy_change_speed": 0,
+      "auto_start_accuracy_circle_scale": 1,
+      "auto_end_accuracy_circle_scale": 1,
+      "auto_accuracy_change_pershot": 0,
+      "auto_accuracy_change_speed": 0,
+      "zoom_rate": 0,
+      "multi_aim_range": 350,
+      "spot_projectile_speed": 0,
+      "charge_time": 0,
+      "full_charge_damage": 10000,
+      "spot_radius_object": 0,
+      "spot_radius": 0,
+      "spot_explosion_range": 0,
+      "core_damage_rate": 20000,
+      "penetration": 0,
+      "use_function_id_list": [
+        0
+      ],
+      "hurt_function_id_list": [
+        0
+      ],
+      "shake_id": 0,
+      "ShakeType": "Fire_MG",
+      "ShakeWeight": 120
     },
     {
       "id": 1027001,
@@ -3916,6 +4113,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -3938,6 +4136,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -3954,7 +4153,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1027101,
@@ -3971,6 +4170,7 @@
       "is_targeting": true,
       "damage": 21430,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 50,
@@ -3993,6 +4193,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4009,7 +4210,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1027102,
@@ -4026,6 +4227,7 @@
       "is_targeting": false,
       "damage": 484,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 130,
@@ -4048,6 +4250,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4064,7 +4267,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1028001,
@@ -4081,6 +4284,7 @@
       "is_targeting": false,
       "damage": 510,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 167,
@@ -4103,6 +4307,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4119,7 +4324,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1028101,
@@ -4136,6 +4341,7 @@
       "is_targeting": true,
       "damage": 1471,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 150,
@@ -4158,6 +4364,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4174,7 +4381,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1028201,
@@ -4191,6 +4398,7 @@
       "is_targeting": false,
       "damage": 6700,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 167,
@@ -4213,6 +4421,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -4229,7 +4438,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1029001,
@@ -4246,6 +4455,7 @@
       "is_targeting": true,
       "damage": 1507,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 167,
@@ -4268,6 +4478,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4284,7 +4495,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1029101,
@@ -4301,6 +4512,7 @@
       "is_targeting": true,
       "damage": 21430,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 200,
@@ -4323,6 +4535,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4339,7 +4552,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030001,
@@ -4356,6 +4569,7 @@
       "is_targeting": true,
       "damage": 1401,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 117,
@@ -4378,6 +4592,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4394,7 +4609,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030101,
@@ -4411,6 +4626,7 @@
       "is_targeting": true,
       "damage": 21430,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 200,
@@ -4433,6 +4649,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4449,7 +4666,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030201,
@@ -4466,6 +4683,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -4488,6 +4706,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -4504,7 +4723,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030301,
@@ -4521,6 +4740,7 @@
       "is_targeting": false,
       "damage": 567,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 267,
@@ -4543,6 +4763,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4559,7 +4780,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030401,
@@ -4576,6 +4797,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -4598,6 +4820,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -4615,7 +4838,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030501,
@@ -4632,6 +4855,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -4654,6 +4878,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4670,7 +4895,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030601,
@@ -4687,6 +4912,7 @@
       "is_targeting": true,
       "damage": 936,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 200,
@@ -4709,6 +4935,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4725,7 +4952,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030701,
@@ -4742,6 +4969,7 @@
       "is_targeting": true,
       "damage": 23160,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 67,
@@ -4764,6 +4992,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4780,7 +5009,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1031001,
@@ -4797,6 +5026,7 @@
       "is_targeting": true,
       "damage": 1578,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 200,
@@ -4819,6 +5049,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4835,7 +5066,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1032001,
@@ -4852,6 +5083,7 @@
       "is_targeting": false,
       "damage": 546,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 230,
@@ -4874,6 +5106,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4890,7 +5123,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1032101,
@@ -4907,6 +5140,7 @@
       "is_targeting": true,
       "damage": 20150,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 150,
@@ -4929,6 +5163,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -4945,7 +5180,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1030801,
@@ -4962,6 +5197,7 @@
       "is_targeting": true,
       "damage": 1471,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 150,
@@ -4984,6 +5220,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5000,7 +5237,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1099901,
@@ -5015,6 +5252,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -5037,6 +5275,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 10000,
@@ -5053,7 +5292,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1099902,
@@ -5068,6 +5307,7 @@
       "is_targeting": false,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -5090,6 +5330,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 10000,
@@ -5106,7 +5347,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1099903,
@@ -5121,6 +5362,7 @@
       "is_targeting": true,
       "damage": 0,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 0,
       "reload_time": 0,
@@ -5143,6 +5385,7 @@
       "auto_accuracy_change_pershot": 100,
       "auto_accuracy_change_speed": 100,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 0,
@@ -5159,7 +5402,7 @@
       ],
       "shake_id": 0,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000001,
@@ -5176,6 +5419,7 @@
       "is_targeting": true,
       "damage": 999,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 250,
@@ -5198,6 +5442,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5214,7 +5459,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000002,
@@ -5231,6 +5476,7 @@
       "is_targeting": true,
       "damage": 999,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 250,
@@ -5253,6 +5499,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5269,7 +5516,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000003,
@@ -5286,6 +5533,7 @@
       "is_targeting": true,
       "damage": 999,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 250,
@@ -5308,6 +5556,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5324,7 +5573,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000004,
@@ -5341,6 +5590,7 @@
       "is_targeting": true,
       "damage": 999,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 250,
@@ -5363,6 +5613,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5379,7 +5630,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000005,
@@ -5396,6 +5647,7 @@
       "is_targeting": true,
       "damage": 999,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 250,
@@ -5418,6 +5670,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5434,7 +5687,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000006,
@@ -5451,6 +5704,7 @@
       "is_targeting": true,
       "damage": 999,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 250,
@@ -5473,6 +5727,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5489,7 +5744,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000007,
@@ -5506,6 +5761,7 @@
       "is_targeting": false,
       "damage": 6429,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 130,
@@ -5528,6 +5784,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -5544,7 +5801,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000008,
@@ -5561,6 +5818,7 @@
       "is_targeting": true,
       "damage": 1414,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 130,
@@ -5583,6 +5841,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5599,7 +5858,7 @@
       ],
       "shake_id": 1,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000009,
@@ -5616,6 +5875,7 @@
       "is_targeting": false,
       "damage": 5709,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 130,
@@ -5638,6 +5898,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -5655,7 +5916,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1000010,
@@ -5672,6 +5933,7 @@
       "is_targeting": false,
       "damage": 5709,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 130,
@@ -5694,6 +5956,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -5711,7 +5974,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1013201,
@@ -5728,6 +5991,7 @@
       "is_targeting": true,
       "damage": 20150,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 150,
@@ -5750,6 +6014,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5766,7 +6031,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1033001,
@@ -5783,6 +6048,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -5805,6 +6071,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5821,7 +6088,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1035201,
@@ -5838,6 +6105,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -5860,6 +6128,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -5876,7 +6145,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1036001,
@@ -5893,6 +6162,7 @@
       "is_targeting": false,
       "damage": 5709,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 130,
@@ -5915,6 +6185,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -5932,7 +6203,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1038001,
@@ -5949,6 +6220,7 @@
       "is_targeting": true,
       "damage": 839,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 130,
@@ -5971,6 +6243,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -5987,7 +6260,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1039201,
@@ -6004,6 +6277,7 @@
       "is_targeting": true,
       "damage": 915,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 183,
@@ -6026,6 +6300,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6042,7 +6317,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1043201,
@@ -6059,6 +6334,7 @@
       "is_targeting": false,
       "damage": 547,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 233,
@@ -6081,6 +6357,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6097,7 +6374,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1001401,
@@ -6114,6 +6391,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -6136,6 +6414,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6152,7 +6431,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1022301,
@@ -6169,6 +6448,7 @@
       "is_targeting": true,
       "damage": 19460,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 130,
@@ -6191,6 +6471,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6207,7 +6488,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1041001,
@@ -6224,6 +6505,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -6246,6 +6528,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6262,7 +6545,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1043001,
@@ -6279,6 +6562,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -6301,6 +6585,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -6318,7 +6603,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1043101,
@@ -6335,6 +6620,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -6357,6 +6643,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6373,7 +6660,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1004201,
@@ -6390,6 +6677,7 @@
       "is_targeting": true,
       "damage": 19460,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 130,
@@ -6412,6 +6700,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6428,7 +6717,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1039101,
@@ -6445,6 +6734,7 @@
       "is_targeting": true,
       "damage": 1414,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 130,
@@ -6467,6 +6757,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6483,7 +6774,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1040201,
@@ -6500,6 +6791,7 @@
       "is_targeting": true,
       "damage": 894,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 167,
@@ -6522,6 +6814,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6538,7 +6831,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1035001,
@@ -6555,6 +6848,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -6577,6 +6871,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6593,7 +6888,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1015101,
@@ -6610,6 +6905,7 @@
       "is_targeting": false,
       "damage": 6429,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 130,
@@ -6632,6 +6928,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -6648,7 +6945,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1031101,
@@ -6665,6 +6962,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -6687,6 +6985,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -6703,7 +7002,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1027201,
@@ -6720,6 +7019,7 @@
       "is_targeting": false,
       "damage": 7107,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 233,
@@ -6742,6 +7042,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -6758,7 +7059,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1033101,
@@ -6775,6 +7076,7 @@
       "is_targeting": true,
       "damage": 810,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 100,
@@ -6797,6 +7099,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6813,7 +7116,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1034001,
@@ -6830,6 +7133,7 @@
       "is_targeting": true,
       "damage": 810,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 100,
@@ -6852,6 +7156,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6868,7 +7173,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1034201,
@@ -6885,6 +7190,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -6907,6 +7213,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6923,7 +7230,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1019201,
@@ -6940,6 +7247,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -6962,6 +7270,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -6978,7 +7287,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1003301,
@@ -6995,6 +7304,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -7017,6 +7327,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7034,7 +7345,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1015201,
@@ -7051,6 +7362,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -7073,6 +7385,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7089,7 +7402,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1019301,
@@ -7106,6 +7419,7 @@
       "is_targeting": true,
       "damage": 20150,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 150,
@@ -7128,6 +7442,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7144,7 +7459,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1012101,
@@ -7161,6 +7476,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -7183,6 +7499,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7200,7 +7517,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1034101,
@@ -7217,6 +7534,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -7239,6 +7557,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7256,7 +7575,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1035101,
@@ -7273,6 +7592,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -7295,6 +7615,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7312,7 +7633,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1026201,
@@ -7329,6 +7650,7 @@
       "is_targeting": false,
       "damage": 6497,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 267,
@@ -7351,6 +7673,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7368,7 +7691,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1038101,
@@ -7385,6 +7708,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -7407,6 +7731,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7424,7 +7749,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1026101,
@@ -7441,6 +7766,7 @@
       "is_targeting": false,
       "damage": 6904,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -7463,6 +7789,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7479,7 +7806,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1040001,
@@ -7496,6 +7823,7 @@
       "is_targeting": true,
       "damage": 23140,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 267,
@@ -7518,6 +7846,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7534,7 +7863,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1040101,
@@ -7551,6 +7880,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -7573,6 +7903,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7589,7 +7920,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1031201,
@@ -7606,6 +7937,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -7628,6 +7960,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7644,7 +7977,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1036101,
@@ -7661,6 +7994,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -7683,6 +8017,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7699,7 +8034,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1020301,
@@ -7716,6 +8051,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -7738,6 +8074,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7754,7 +8091,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1039001,
@@ -7771,6 +8108,7 @@
       "is_targeting": true,
       "damage": 20150,
       "shot_count": 10,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 9,
       "reload_time": 150,
@@ -7793,6 +8131,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7809,7 +8148,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1080001,
@@ -7826,6 +8165,7 @@
       "is_targeting": true,
       "damage": 873,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 120,
       "reload_time": 150,
@@ -7848,6 +8188,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -7864,7 +8205,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SMG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1080101,
@@ -7881,6 +8222,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -7903,6 +8245,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7920,7 +8263,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1080201,
@@ -7935,19 +8278,20 @@
       "fire_type": "Instant",
       "input_type": "UP",
       "is_targeting": false,
-      "damage": 6904,
+      "damage": 7089,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
-      "reload_time": 200,
+      "reload_time": 230,
       "reload_bullet": 10000,
       "reload_start_ammo": 5,
       "rate_of_fire_reset_time": 0,
       "rate_of_fire": 60,
       "end_rate_of_fire": 60,
       "rate_of_fire_change_pershot": 0,
-      "burst_energy_pershot": 280,
-      "target_burst_energy_pershot": 560,
+      "burst_energy_pershot": 290,
+      "target_burst_energy_pershot": 580,
       "spot_first_delay": 20,
       "spot_last_delay": 20,
       "start_accuracy_circle_scale": 10,
@@ -7959,6 +8303,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 30,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -7975,7 +8320,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_SR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1023301,
@@ -7992,6 +8337,7 @@
       "is_targeting": true,
       "damage": 1365,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 60,
       "reload_time": 100,
@@ -8014,6 +8360,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -8030,7 +8377,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_AR",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1029201,
@@ -8047,6 +8394,7 @@
       "is_targeting": false,
       "damage": 6130,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 6,
       "reload_time": 200,
@@ -8069,6 +8417,7 @@
       "auto_accuracy_change_pershot": 0,
       "auto_accuracy_change_speed": 0,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 100,
       "charge_time": 100,
       "full_charge_damage": 25000,
@@ -8086,7 +8435,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_RL",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     },
     {
       "id": 1038201,
@@ -8103,6 +8452,7 @@
       "is_targeting": false,
       "damage": 557,
       "shot_count": 1,
+      "multi_target_count": 0,
       "center_shot_count": 0,
       "max_ammo": 300,
       "reload_time": 250,
@@ -8125,6 +8475,7 @@
       "auto_accuracy_change_pershot": 7,
       "auto_accuracy_change_speed": 150,
       "zoom_rate": 0,
+      "multi_aim_range": 0,
       "spot_projectile_speed": 0,
       "charge_time": 0,
       "full_charge_damage": 10000,
@@ -8141,7 +8492,7 @@
       ],
       "shake_id": 2,
       "ShakeType": "Fire_MG",
-      "ShakeWeight": 2
+      "ShakeWeight": 120
     }
   ]
 }

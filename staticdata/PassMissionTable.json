@@ -126,6 +126,105 @@
       "condition_value": 100,
       "name_localkey": "trigger_desc_PointRewardDaily",
       "reward_id": 4000001
+    },
+    {
+      "id": 2000101,
+      "pass_point_id": 10001,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40003,
+      "condition_value": 1,
+      "name_localkey": "trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000102,
+      "pass_point_id": 10001,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40004,
+      "condition_value": 1,
+      "name_localkey": "trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000103,
+      "pass_point_id": 10001,
+      "condition_type": "EventSortOutClear",
+      "condition_id": 1,
+      "condition_value": 2,
+      "name_localkey": "trigger_desc_EventSortOutClear",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000104,
+      "pass_point_id": 10001,
+      "condition_type": "ObtainEventCurrencyMaterialMiraclesnow",
+      "condition_id": 0,
+      "condition_value": 100,
+      "name_localkey": "trigger_desc_ObtainEventCurrencyMaterialMiraclesnow",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000105,
+      "pass_point_id": 10001,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 301,
+      "condition_value": 100,
+      "name_localkey": "trigger_desc_PointRewardEventDaily",
+      "reward_id": 4000002
+    },
+    {
+      "id": 2000106,
+      "pass_point_id": 10001,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "trigger_desc_GachaCharacter",
+      "reward_id": 4000002
+    },
+    {
+      "id": 3000101,
+      "pass_point_id": 10002,
+      "condition_type": "CharacterCounsel",
+      "condition_id": 0,
+      "condition_value": 3,
+      "name_localkey": "trigger_desc_CharacterCounsel",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000102,
+      "pass_point_id": 10002,
+      "condition_type": "CharacterAttractivePresent",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "trigger_desc_CharacterAttractivePresent",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000103,
+      "pass_point_id": 10002,
+      "condition_type": "OutpostFastBattleReward",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "trigger_desc_OutpostFastBattleReward",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000104,
+      "pass_point_id": 10002,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "trigger_desc_GachaCharacter",
+      "reward_id": 4000003
+    },
+    {
+      "id": 3000105,
+      "pass_point_id": 10002,
+      "condition_type": "GetFriendShipPoint",
+      "condition_id": 0,
+      "condition_value": 10,
+      "name_localkey": "trigger_desc_GetFriendShipPoint",
+      "reward_id": 4000003
     }
   ]
 }

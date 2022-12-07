@@ -453,7 +453,7 @@
     },
     {
       "id": 1006001,
-      "description_localkey": "statcriticaldamage_description",
+      "description_localkey": "statchargetime_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 12,
       "state_effect_group_id": 100600,
@@ -478,7 +478,7 @@
     },
     {
       "id": 1006002,
-      "description_localkey": "statcriticaldamage_description",
+      "description_localkey": "statchargetime_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 12,
       "state_effect_group_id": 100600,
@@ -503,7 +503,7 @@
     },
     {
       "id": 1006003,
-      "description_localkey": "statcriticaldamage_description",
+      "description_localkey": "statchargetime_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 12,
       "state_effect_group_id": 100600,
@@ -528,7 +528,7 @@
     },
     {
       "id": 1007001,
-      "description_localkey": "statdef_description",
+      "description_localkey": "statcriticaldamage_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 12,
       "state_effect_group_id": 100700,
@@ -553,7 +553,7 @@
     },
     {
       "id": 1007002,
-      "description_localkey": "statdef_description",
+      "description_localkey": "statcriticaldamage_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 12,
       "state_effect_group_id": 100700,
@@ -578,7 +578,7 @@
     },
     {
       "id": 1007003,
-      "description_localkey": "statdef_description",
+      "description_localkey": "statcriticaldamage_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 12,
       "state_effect_group_id": 100700,
@@ -603,7 +603,7 @@
     },
     {
       "id": 1008001,
-      "description_localkey": "stathpheal_description",
+      "description_localkey": "statcritical_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 10,
       "state_effect_group_id": 100800,
@@ -628,7 +628,7 @@
     },
     {
       "id": 1008002,
-      "description_localkey": "stathpheal_description",
+      "description_localkey": "statcritical_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 10,
       "state_effect_group_id": 100800,
@@ -653,7 +653,7 @@
     },
     {
       "id": 1008003,
-      "description_localkey": "stathpheal_description",
+      "description_localkey": "statcritical_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 10,
       "state_effect_group_id": 100800,
@@ -678,7 +678,7 @@
     },
     {
       "id": 1009001,
-      "description_localkey": "drainhpbuff_description",
+      "description_localkey": "statdef_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 10,
       "state_effect_group_id": 100900,
@@ -703,7 +703,7 @@
     },
     {
       "id": 1009002,
-      "description_localkey": "drainhpbuff_description",
+      "description_localkey": "statdef_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 10,
       "state_effect_group_id": 100900,
@@ -728,7 +728,7 @@
     },
     {
       "id": 1009003,
-      "description_localkey": "drainhpbuff_description",
+      "description_localkey": "statdef_description",
       "equipment_option_group_id": 100000,
       "option_group_ratio": 10,
       "state_effect_group_id": 100900,

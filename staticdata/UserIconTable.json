@@ -457,6 +457,34 @@
       "name_localkey": "usericon_name_57500"
     },
     {
+      "id": 58500,
+      "resource_id": 121,
+      "costume_index": 0,
+      "name_code": 5085,
+      "name_localkey": "usericon_name_58500"
+    },
+    {
+      "id": 31100,
+      "resource_id": 193,
+      "costume_index": 0,
+      "name_code": 3011,
+      "name_localkey": "usericon_name_58400"
+    },
+    {
+      "id": 58700,
+      "resource_id": 203,
+      "costume_index": 0,
+      "name_code": 5087,
+      "name_localkey": "usericon_name_58700"
+    },
+    {
+      "id": 54400,
+      "resource_id": 260,
+      "costume_index": 0,
+      "name_code": 5044,
+      "name_localkey": "usericon_name_54400"
+    },
+    {
       "id": 30101,
       "resource_id": 10,
       "costume_index": 1,
@@ -497,6 +525,48 @@
       "costume_index": 2,
       "name_code": 5020,
       "name_localkey": "usericon_name_52002"
+    },
+    {
+      "id": 50501,
+      "resource_id": 90,
+      "costume_index": 1,
+      "name_code": 5005,
+      "name_localkey": "usericon_name_50501"
+    },
+    {
+      "id": 50301,
+      "resource_id": 210,
+      "costume_index": 1,
+      "name_code": 5003,
+      "name_localkey": "usericon_name_50301"
+    },
+    {
+      "id": 50201,
+      "resource_id": 140,
+      "costume_index": 1,
+      "name_code": 5002,
+      "name_localkey": "usericon_name_50201"
+    },
+    {
+      "id": 51401,
+      "resource_id": 150,
+      "costume_index": 1,
+      "name_code": 5014,
+      "name_localkey": "usericon_name_51401"
+    },
+    {
+      "id": 56601,
+      "resource_id": 352,
+      "costume_index": 1,
+      "name_code": 5066,
+      "name_localkey": "usericon_name_56601"
+    },
+    {
+      "id": 53201,
+      "resource_id": 181,
+      "costume_index": 1,
+      "name_code": 5032,
+      "name_localkey": "usericon_name_53201"
     }
   ]
 }

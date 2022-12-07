@@ -392,6 +392,30 @@
       "icon_id": 57500
     },
     {
+      "id": 585005085,
+      "condition_type": "GetCharacter",
+      "condition_value": 5085,
+      "icon_id": 58500
+    },
+    {
+      "id": 311003011,
+      "condition_type": "GetCharacter",
+      "condition_value": 3011,
+      "icon_id": 31100
+    },
+    {
+      "id": 587005087,
+      "condition_type": "GetCharacter",
+      "condition_value": 5087,
+      "icon_id": 58700
+    },
+    {
+      "id": 544005044,
+      "condition_type": "GetCharacter",
+      "condition_value": 5044,
+      "icon_id": 54400
+    },
+    {
       "id": 301013001,
       "condition_type": "GetCostume",
       "condition_value": 20001,
@@ -426,6 +450,42 @@
       "condition_type": "GetCostume",
       "condition_value": 30006,
       "icon_id": 52002
+    },
+    {
+      "id": 40001,
+      "condition_type": "GetCostume",
+      "condition_value": 40001,
+      "icon_id": 50501
+    },
+    {
+      "id": 40002,
+      "condition_type": "GetCostume",
+      "condition_value": 40002,
+      "icon_id": 50301
+    },
+    {
+      "id": 50002,
+      "condition_type": "GetCostume",
+      "condition_value": 50002,
+      "icon_id": 50201
+    },
+    {
+      "id": 50001,
+      "condition_type": "GetCostume",
+      "condition_value": 50001,
+      "icon_id": 51401
+    },
+    {
+      "id": 50003,
+      "condition_type": "GetCostume",
+      "condition_value": 50003,
+      "icon_id": 56601
+    },
+    {
+      "id": 30007,
+      "condition_type": "GetCostume",
+      "condition_value": 30007,
+      "icon_id": 53201
     }
   ]
 }

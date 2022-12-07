@@ -293,6 +293,59 @@
       "loading_tip_group": 3
     },
     {
+      "id": 28,
+      "info_d": "로비씬에서 이벤트 필드 씬으로",
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 29,
+      "info_d": "이벤트 필드 씬에서 로비 씬으로",
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 30,
+      "info_d": "전초기지씬에서 캠페인씬으로",
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "Campaign",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": true,
+      "loading_tip_group": 2
+    },
+    {
+      "id": 31,
+      "info_d": "이벤트 필드 씬에서 배틀씬으로",
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Battle",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 32,
+      "info_d": "배틀씬에서 이벤트 필드 씬으로",
+      "depart_scene_code": "Battle",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
       "id": 1001,
       "info_d": "로비뷰에서 상점뷰로",
       "depart_scene_code": "None",
@@ -393,16 +446,6 @@
       "is_gauge": false
     },
     {
-      "id": 1011,
-      "info_d": "니케관리뷰에서 캐릭터상세정보뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6036,
-      "arrive_view_type": 6012,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
       "id": 1012,
       "info_d": "방주뷰에서 타워입장뷰로",
       "depart_scene_code": "None",
@@ -424,172 +467,22 @@
     },
     {
       "id": 2001,
-      "info_d": "로비 팀세팅에서 상세정보 뷰로",
+      "info_d": "어디서든 상세정보 뷰로 (오버레이)",
       "depart_scene_code": "None",
       "arrive_scene_code": "None",
-      "depart_view_type": 4100,
+      "depart_view_type": -1,
       "arrive_view_type": 6014,
       "transition_type": 5,
       "is_gauge": false
     },
     {
       "id": 2002,
-      "info_d": "로스트섹터 팀세팅에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 4101,
-      "arrive_view_type": 6014,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
-      "id": 2003,
-      "info_d": "타워 팀세팅에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 4102,
-      "arrive_view_type": 6014,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
-      "id": 2004,
-      "info_d": "아레나 팀세팅에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 4103,
-      "arrive_view_type": 6014,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
-      "id": 2005,
-      "info_d": "스페셜 아레나 팀세팅에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 4104,
-      "arrive_view_type": 6014,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
-      "id": 2006,
-      "info_d": "길드 사격장 팀세팅에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 4105,
-      "arrive_view_type": 6014,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
-      "id": 2007,
-      "info_d": "요격전 팀세팅에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 4106,
-      "arrive_view_type": 6014,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
-      "id": 2008,
-      "info_d": "특수 요격전 팀세팅에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 4107,
-      "arrive_view_type": 6014,
-      "transition_type": 5,
-      "is_gauge": false
-    },
-    {
-      "id": 2009,
-      "info_d": "상세정보 뷰에서 로비 팀세팅으로",
+      "info_d": "상세정보 뷰에서 어디로든 (오버레이)",
       "depart_scene_code": "None",
       "arrive_scene_code": "None",
       "depart_view_type": 6014,
-      "arrive_view_type": 4100,
+      "arrive_view_type": -1,
       "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2010,
-      "info_d": "상세정보 뷰에서 로스트 섹터 팀세팅으로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4101,
-      "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2011,
-      "info_d": "상세정보 뷰에서 타워 팀세팅으로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4102,
-      "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2012,
-      "info_d": "상세정보 뷰에서 아레나 팀세팅으로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4103,
-      "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2013,
-      "info_d": "상세정보 뷰에서 스페셜 아레나 팀세팅으로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4104,
-      "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2014,
-      "info_d": "상세정보뷰에서 길드 사격장 팀세팅으로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4105,
-      "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2015,
-      "info_d": "상세정보 뷰에서 요격전 팀세팅으로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4106,
-      "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2016,
-      "info_d": "상세정보 뷰에서 특수 요격전 팀세팅으로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4107,
-      "transition_type": 3,
-      "is_gauge": false
-    },
-    {
-      "id": 2017,
-      "info_d": "도감 팝업에서 상세정보 뷰로",
-      "depart_scene_code": "None",
-      "arrive_scene_code": "None",
-      "depart_view_type": 6009,
-      "arrive_view_type": 6012,
-      "transition_type": 5,
       "is_gauge": false
     },
     {
@@ -644,22 +537,22 @@
     },
     {
       "id": 2023,
-      "info_d": "상세정보 뷰에서 시뮬레이션룸 팀세팅으로",
+      "info_d": "어디서든 상세정보 뷰로",
       "depart_scene_code": "None",
       "arrive_scene_code": "None",
-      "depart_view_type": 6014,
-      "arrive_view_type": 4109,
-      "transition_type": 3,
+      "depart_view_type": -1,
+      "arrive_view_type": 6012,
+      "transition_type": 5,
       "is_gauge": false
     },
     {
       "id": 2024,
-      "info_d": "로비에서 캐릭티 상세정보 뷰로(튜토)",
+      "info_d": "상세정보 뷰에서 어디로든",
       "depart_scene_code": "None",
       "arrive_scene_code": "None",
-      "depart_view_type": 6056,
-      "arrive_view_type": 6012,
-      "transition_type": 5,
+      "depart_view_type": 6012,
+      "arrive_view_type": -1,
+      "transition_type": 3,
       "is_gauge": false
     },
     {

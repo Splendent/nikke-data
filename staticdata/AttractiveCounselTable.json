@@ -7700,6 +7700,566 @@
       "attractive_level_min": 1,
       "attractive_level_max": 40,
       "counsel_group_id": "d_counseling_laplace_20"
+    },
+    {
+      "id": 1101,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_01"
+    },
+    {
+      "id": 1102,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_02"
+    },
+    {
+      "id": 1103,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_03"
+    },
+    {
+      "id": 1104,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_04"
+    },
+    {
+      "id": 1105,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_05"
+    },
+    {
+      "id": 1106,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_06"
+    },
+    {
+      "id": 1107,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_07"
+    },
+    {
+      "id": 1108,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_08"
+    },
+    {
+      "id": 1109,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_09"
+    },
+    {
+      "id": 1110,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_10"
+    },
+    {
+      "id": 1111,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_11"
+    },
+    {
+      "id": 1112,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_12"
+    },
+    {
+      "id": 1113,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_13"
+    },
+    {
+      "id": 1114,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_14"
+    },
+    {
+      "id": 1115,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_15"
+    },
+    {
+      "id": 1116,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_16"
+    },
+    {
+      "id": 1117,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_17"
+    },
+    {
+      "id": 1118,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_18"
+    },
+    {
+      "id": 1119,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_19"
+    },
+    {
+      "id": 1120,
+      "name_code": 5087,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_rupee_wintershopper_20"
+    },
+    {
+      "id": 1121,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_01"
+    },
+    {
+      "id": 1122,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_02"
+    },
+    {
+      "id": 1123,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_03"
+    },
+    {
+      "id": 1124,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_04"
+    },
+    {
+      "id": 1125,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_05"
+    },
+    {
+      "id": 1126,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_06"
+    },
+    {
+      "id": 1127,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_07"
+    },
+    {
+      "id": 1128,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_08"
+    },
+    {
+      "id": 1129,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_09"
+    },
+    {
+      "id": 1130,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_10"
+    },
+    {
+      "id": 1131,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_11"
+    },
+    {
+      "id": 1132,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_12"
+    },
+    {
+      "id": 1133,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_13"
+    },
+    {
+      "id": 1134,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_14"
+    },
+    {
+      "id": 1135,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_15"
+    },
+    {
+      "id": 1136,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_16"
+    },
+    {
+      "id": 1137,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_17"
+    },
+    {
+      "id": 1138,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_18"
+    },
+    {
+      "id": 1139,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_19"
+    },
+    {
+      "id": 1140,
+      "name_code": 5085,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_anne_miraclefairy_20"
+    },
+    {
+      "id": 1141,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_01"
+    },
+    {
+      "id": 1142,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_02"
+    },
+    {
+      "id": 1143,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_03"
+    },
+    {
+      "id": 1144,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_04"
+    },
+    {
+      "id": 1145,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_05"
+    },
+    {
+      "id": 1146,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_06"
+    },
+    {
+      "id": 1147,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_07"
+    },
+    {
+      "id": 1148,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_08"
+    },
+    {
+      "id": 1149,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_09"
+    },
+    {
+      "id": 1150,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_10"
+    },
+    {
+      "id": 1151,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_11"
+    },
+    {
+      "id": 1152,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_12"
+    },
+    {
+      "id": 1153,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_13"
+    },
+    {
+      "id": 1154,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_14"
+    },
+    {
+      "id": 1155,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_15"
+    },
+    {
+      "id": 1156,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_16"
+    },
+    {
+      "id": 1157,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_17"
+    },
+    {
+      "id": 1158,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_18"
+    },
+    {
+      "id": 1159,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_19"
+    },
+    {
+      "id": 1160,
+      "name_code": 3011,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_neve_20"
+    },
+    {
+      "id": 1161,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_01"
+    },
+    {
+      "id": 1162,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_02"
+    },
+    {
+      "id": 1163,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_03"
+    },
+    {
+      "id": 1164,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_04"
+    },
+    {
+      "id": 1165,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_05"
+    },
+    {
+      "id": 1166,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_06"
+    },
+    {
+      "id": 1167,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_07"
+    },
+    {
+      "id": 1168,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_08"
+    },
+    {
+      "id": 1169,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_09"
+    },
+    {
+      "id": 1170,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_10"
+    },
+    {
+      "id": 1171,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_11"
+    },
+    {
+      "id": 1172,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_12"
+    },
+    {
+      "id": 1173,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_13"
+    },
+    {
+      "id": 1174,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_14"
+    },
+    {
+      "id": 1175,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_15"
+    },
+    {
+      "id": 1176,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_16"
+    },
+    {
+      "id": 1177,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_17"
+    },
+    {
+      "id": 1178,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_18"
+    },
+    {
+      "id": 1179,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_19"
+    },
+    {
+      "id": 1180,
+      "name_code": 5044,
+      "attractive_level_min": 1,
+      "attractive_level_max": 40,
+      "counsel_group_id": "d_counseling_marian_p_20"
     }
   ]
 }
